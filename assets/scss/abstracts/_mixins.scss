@@ -1,0 +1,51 @@
+// Font Mixins
+@mixin default-headline {
+    font-family: Roboto;
+    font-size: $default-headline-font-size;
+    font-weight: bold;
+    line-height: 1.21;
+    letter-spacing: 0.48px;
+    text-align: left;
+    color: map-get($map: $main-colors, $key: primary);
+}
+
+@mixin input-headline {
+    font-family: Roboto;
+    font-size: $input-headline-font-size;
+    font-weight: 500;
+    line-height: 1.18;
+    text-align: left;
+    color: $color-black;
+}
+
+@mixin small-headline {
+    font-family: Roboto;
+    font-size: $small-headline-font-size;
+    font-weight: bold;
+    line-height: 1.21;
+    letter-spacing: 0.28px;
+    text-align: left;
+    color: $color-black;
+}
+
+@mixin default-text {
+    font-family: Roboto;
+    font-size: $default-text-font-size;
+    line-height: 1.18;
+    text-align: left;
+    color: $color-black;
+}
+
+@mixin default-text-white {
+    @include default-text;
+    color: $color-white;
+}
+
+@mixin small-text {
+    font-family: Roboto;
+    font-size: $small-text-font-size;
+    line-height: 1.21;
+    letter-spacing: 0.28px;
+    text-align: left;
+    color: $color-black;
+}

@@ -1,0 +1,14 @@
+  
+html,
+body {
+  
+  padding: 0;
+  box-sizing: border-box;
+  * {
+    box-sizing: inherit;
+  }
+}
+
+body {
+  margin: $default-spacing; 
+}

@@ -1,0 +1,67 @@
+#heatmap-popup {
+    border: 1px solid $color-black;
+    display: none;
+    padding: $small-spacing;
+    position: absolute;
+    background-color: rgba(255,255,255,0.7);
+    width: 300px;
+
+    .popup-header-wrapper {
+        display: flex;
+        justify-content: space-between;
+
+        #popup-headline {
+            margin: 0;
+        }
+    
+        #popup-close {
+            cursor: pointer;
+        }
+    }
+    
+    .popup-cases {
+
+        .popup-data {
+            display: flex;
+        }
+    }
+
+    .popup-votes {
+        margin-top: $smallest-spacing;
+
+        .popup-table-header {
+            font-weight: bold;
+        }
+
+        .popup-table-header, .popup-table-row {
+            display: flex;
+            justify-content: space-between;
+
+            div {
+                flex: 1;
+                margin-right: $smallest-spacing;
+            }
+
+            .row-party {
+                flex: 0.5;
+            }
+
+            .row-candidate {
+                flex: 1.2;
+            }
+
+            .row-background {
+                flex: 0.1;
+            }
+
+            .row-background-red {
+                background-color: red;
+            }
+
+            .row-background-blue {
+                background-color: blue;
+            }
+        }
+    }
+    
+} 

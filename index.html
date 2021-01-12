@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>InfoVis Project</title>
+  <meta name="description" content="Student project for the InfoVis class in WS20/21">
+  <meta name="author" content="Chrysa Bika, Hanna Tschakert, Christopher Senn, Jonas Koerber, David J. Neubauer">
+
+  <script>
+    console.log("Please note that this website was implemented and tested with Google Chrome.")
+  </script>
+
+  <link rel="stylesheet" href="assets/css/main.css">
+
+</head>
+
+<body>
+  <!--<h1 class="main-headline">The effect of corona on the US election 2020</h1>-->
+  <div class="left-container">
+
+    <div class="left-top-container">
+      <button onclick="swapTopLeft(0)">Umfrage</button>
+        <button onclick="swapTopLeft(1)">Verlauf</button>
+
+      <div id="poll-container">
+        
+        <div id="candidates-container">
+          <div id="Joe">
+            Joe Biden
+          </div>
+          <div id=Trump>
+            Donald Trump
+          </div>
+          <div id="election-Indicator">
+            <svg></svg>
+          </div>
+        </div>
+        <div class=poll-table>
+          <div class=poll-table-container>
+            <div class=poll-table-header id=poll-table-header>
+              <div class=row-state>State</div>
+              <div class=row-dem>DEM</div>
+              <div class=row-rep>REP</div>
+            </div>
+            <div id=table-content>
+              <div class=poll-table-row id=poll-table-row>
+                <div class=row-state id="poll-state">Washington</div>
+                <div class=row-dem id="votes-dem">20</div>
+                <div class=row-rep id="votes-rep">30</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="line-chart-container">
+        <div class="areachart-container">
+          <div id="areachart"></div>
+        </div>
+        <label class="switch">
+          <input name="caseSwitch" type="checkbox" onclick="drawAreaChart()">
+          <span class="slider round"></span>
+        </label>
+      </div>
+
+    </div>
+
+    <div class="left-bottom-container">
+      <div class="measures">
+        <h2>Counter Measures</h2>
+        <div id="counterMeasures">
+          <div id="measure-div"></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+  <div class=" right-container">
+    <div class="right-top-container">
+      <div class="columnChart">
+        <button id="showCases" onclick="showValue(1)">Total Cases</button>
+        <button id="showDeaths" onclick="showValue(0)">Deaths</button>
+        <div id="columnChartCases">
+        </div>
+        <div id="columnChartDeaths"> </div>
+      </div>
+    </div>
+    
+    <div class="right-bottom-container">
+      <div class="heatmap-container">
+        <div class="heatmap-wrapper">
+          <div id="heatmap-container"></div>
+          <div id="heatmap-legend"></div>
+        </div>
+        <div id="time-slider-container">
+          <button class="primary-button" id="play-button">Play</button>
+        </div>
+      </div>
+    
+      <div id="heatmap-popup">
+        <div class="popup-header-wrapper">
+    
+          <h2 id="popup-headline">State</h2>
+          <div id="popup-close" onclick="closePopup()">x</div>
+        </div>
+    
+    
+        <div class="popup-cases">
+          <div class="popup-data">
+            Total confirmed cases: <div id="popup-cases-total">0</div>
+          </div>
+          <div class="popup-data">
+            Cases per 100.000 C.: <div id="popup-cases-per">0</div>
+          </div>
+          <div class="popup-data">
+            Deaths: <div id="popup-deaths">0</div>
+          </div>
+        </div>
+        <div class="popup-votes">
+          <div class="popup-table-header">
+            <div class="row-background"></div>
+            <div class="row-candidate">Candidate</div>
+            <div class="row-party">Party</div>
+            <div>Percent</div>
+          </div>
+          <div class="popup-table-row">
+            <div class="row-background row-background-red"></div>
+            <div class="row-candidate">Donald Trump</div>
+            <div class="row-party">Rep.</div>
+            <div id="popup-percent-rep">50.0%</div>
+          </div>
+          <div class="popup-table-row">
+            <div class="row-background row-background-blue"></div>
+            <div class="row-candidate">Joe Biden</div>
+            <div class="row-party">Dem.</div>
+            <div id="popup-percent-dem">50.0%</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+
+
+
+
+
+
+
+  <!-- load the d3.js library -->
+  <script src="https://d3js.org/d3.v6.js"></script>
+  <script src="script/heatmap.js"></script>
+  <script src="script/heatmapLegend.js"></script>
+  <script src="script/timeSlider.js"></script>
+  <script src="script/columnChart.js"></script>
+  <script src="script/counterMeasures.js"></script>
+  <script src="script/pollVisualisation.js"></script>
+  <script src="script/areaChart.js"></script>
+  
+</body>
+
+</html>
+
+

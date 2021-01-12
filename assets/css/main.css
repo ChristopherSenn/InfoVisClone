@@ -1,0 +1,325 @@
+/*
+This file is used to contain all abstracts imports.
+Files inside this folder can contain abstract settings, helpers or functions. They have no direct output.
+*/
+@font-face {
+  font-family: "Roboto";
+  font-weight: normal;
+  src: url("../fonts/roboto/roboto-v20-latin-regular.eot?") format("eot"), url("../fonts/roboto/roboto-v20-latin-regular.woff2") format("woff2"), url("../fonts/roboto/roboto-v20-latin-regular.woff") format("woff"), url("../fonts/roboto/roboto-v20-latin-regular.ttf") format("truetype"), url("../fonts/roboto/roboto-v20-latin-regular.svg#Roboto") format("svg"); }
+
+@font-face {
+  font-family: "Roboto";
+  font-weight: medium;
+  src: url("../fonts/roboto/roboto-v20-latin-500.eot?") format("eot"), url("../fonts/roboto/roboto-v20-latin-500.woff2") format("woff2"), url("../fonts/roboto/roboto-v20-latin-500.woff") format("woff"), url("../fonts/roboto/roboto-v20-latin-500.ttf") format("truetype"), url("../fonts/roboto/roboto-v20-latin-500.svg#Roboto") format("svg"); }
+
+@font-face {
+  font-family: "Roboto";
+  font-weight: bold;
+  src: url("../fonts/roboto/roboto-v20-latin-700.eot?") format("eot"), url("../fonts/roboto/roboto-v20-latin-700.woff2") format("woff2"), url("../fonts/roboto/roboto-v20-latin-700.woff") format("woff"), url("../fonts/roboto/roboto-v20-latin-700.ttf") format("truetype"), url("../fonts/roboto/roboto-v20-latin-700.svg#Roboto") format("svg"); }
+
+/*
+This file is used to contain all base imports.
+Files inside this folder can contain global styles used in
+the project.
+*/
+html {
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 1.18;
+  text-align: left;
+  color: #333333; }
+
+h1 {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1.21;
+  letter-spacing: 0.48px;
+  text-align: left;
+  color: #0f7014; }
+
+h3 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.21;
+  letter-spacing: 0.28px;
+  text-align: left;
+  color: #333333; }
+
+html,
+body {
+  padding: 0;
+  box-sizing: border-box; }
+  html *,
+  body * {
+    box-sizing: inherit; }
+
+body {
+  margin: 24px; }
+
+/*
+This file is used to contain all component imports.
+Files inside this folder should contain all styles relating to a reusable component.
+*/
+/*
+This file is used to contain all d3 style imports.
+Files inside this folder should contain all styles relating to a reusable d3 component.
+*/
+path:hover {
+  stroke-width: 2 !important;
+  /* Please don't judge */ }
+
+.heatmap-container {
+  max-width: 1200px; }
+
+/* Legend Position Style */
+.legend {
+  position: absolute;
+  left: 800px;
+  top: 350px; }
+
+/* Style for Custom Tooltip */
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  background: white;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none; }
+
+.ticks {
+  font-size: 10px; }
+
+.track,
+.track-inset,
+.track-overlay {
+  stroke-linecap: round; }
+
+.track {
+  stroke: #000;
+  stroke-opacity: 0.3;
+  stroke-width: 10px; }
+
+.track-inset {
+  stroke: #dcdcdc;
+  stroke-width: 8px; }
+
+.track-overlay {
+  pointer-events: stroke;
+  stroke-width: 50px;
+  stroke: transparent;
+  cursor: grab; }
+  .track-overlay :active {
+    cursor: grabbing; }
+
+.handle {
+  fill: #fff;
+  stroke: #000;
+  stroke-opacity: 0.5;
+  stroke-width: 1.25px; }
+
+.primary-button {
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 1.18;
+  text-align: left;
+  color: #333333;
+  color: #FFFFFF;
+  border: none;
+  background-color: #0f7014;
+  padding: 8px 24px 8px 24px; }
+  .primary-button:hover {
+    background-color: #159d1c; }
+  .primary-button:active {
+    background-color: #09430c; }
+  .primary-button:disabled {
+    background-color: #CCCCCC; }
+
+.main-headline {
+  text-align: center; }
+
+#heatmap-popup {
+  border: 1px solid #333333;
+  display: none;
+  padding: 16px;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 300px; }
+  #heatmap-popup .popup-header-wrapper {
+    display: flex;
+    justify-content: space-between; }
+    #heatmap-popup .popup-header-wrapper #popup-headline {
+      margin: 0; }
+    #heatmap-popup .popup-header-wrapper #popup-close {
+      cursor: pointer; }
+  #heatmap-popup .popup-cases .popup-data {
+    display: flex; }
+  #heatmap-popup .popup-votes {
+    margin-top: 8px; }
+    #heatmap-popup .popup-votes .popup-table-header {
+      font-weight: bold; }
+    #heatmap-popup .popup-votes .popup-table-header, #heatmap-popup .popup-votes .popup-table-row {
+      display: flex;
+      justify-content: space-between; }
+      #heatmap-popup .popup-votes .popup-table-header div, #heatmap-popup .popup-votes .popup-table-row div {
+        flex: 1;
+        margin-right: 8px; }
+      #heatmap-popup .popup-votes .popup-table-header .row-party, #heatmap-popup .popup-votes .popup-table-row .row-party {
+        flex: 0.5; }
+      #heatmap-popup .popup-votes .popup-table-header .row-candidate, #heatmap-popup .popup-votes .popup-table-row .row-candidate {
+        flex: 1.2; }
+      #heatmap-popup .popup-votes .popup-table-header .row-background, #heatmap-popup .popup-votes .popup-table-row .row-background {
+        flex: 0.1; }
+      #heatmap-popup .popup-votes .popup-table-header .row-background-red, #heatmap-popup .popup-votes .popup-table-row .row-background-red {
+        background-color: red; }
+      #heatmap-popup .popup-votes .popup-table-header .row-background-blue, #heatmap-popup .popup-votes .popup-table-row .row-background-blue {
+        background-color: blue; }
+
+.measures {
+  height: 100%;
+  border: 1px solid black;
+  border-radius: 20px; }
+  .measures h2 {
+    padding-left: 24px;
+    margin-bottom: 16px; }
+  .measures #counterMeasures {
+    height: 85%;
+    padding: 24px;
+    overflow: auto; }
+
+#poll-container {
+  display: none; }
+
+#Joe {
+  display: inline-block;
+  padding: 10px; }
+
+#Trump {
+  display: inline-block;
+  padding: 10px;
+  float: right; }
+
+#election-Indicator {
+  padding: 0px 10px 0px 10px;
+  width: 100%;
+  height: 60px; }
+
+.poll-table {
+  padding: 10px; }
+
+.poll-table-header {
+  font-weight: bold; }
+
+#table-content {
+  height: 150px;
+  overflow: scroll; }
+
+#table-content :nth-child(even) {
+  background-color: #dddddd; }
+
+.poll-table-header,
+#poll-table-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+  .poll-table-header div,
+  #poll-table-row div {
+    flex: 1;
+    margin-right: 8px; }
+  .poll-table-header .row-state,
+  #poll-table-row .row-state {
+    flex: 2; }
+  .poll-table-header .row-dem,
+  #poll-table-row .row-dem {
+    flex: 1; }
+  .poll-table-header .row-rep,
+  #poll-table-row .row-rep {
+    flex: 1; }
+
+/* toggle switch for cases/casesPerDay
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px; }
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0; }
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s; }
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s; }
+
+input:checked + .slider {
+  background-color: #2196F3; }
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3; }
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px); }
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px; }
+
+.slider.round:before {
+  border-radius: 50%; }
+
+body {
+  background-color: #F5F5F5;
+  display: flex; }
+  body .left-container {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-right: 15%;
+    height: 95vh; }
+    body .left-container .left-top-container {
+      height: 35%;
+      border: 2px solid grey;
+      margin-bottom: 10%; }
+    body .left-container .left-bottom-container {
+      height: 60%; }
+  body .right-container {
+    width: 60%; }
+
+.heatmap-wrapper {
+  display: flex;
+  align-items: flex-end; }
+  .heatmap-wrapper #heatmap-container {
+    width: 90%; }
+  .heatmap-wrapper #heatmap-legend {
+    width: 5%; }
+
+#time-slider-container {
+  display: flex;
+  align-items: center; }
+  #time-slider-container svg {
+    width: 90%; }

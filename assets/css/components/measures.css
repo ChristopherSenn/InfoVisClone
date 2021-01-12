@@ -1,0 +1,7 @@
+.measures {
+  height: 100%; }
+  .measures #counterMeasures {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    overflow: auto; }

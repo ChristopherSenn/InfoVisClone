@@ -1,0 +1,20 @@
+.measures {
+    height: 100%;
+    border:1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+
+    h2 {
+        padding-left: $default-spacing;
+        margin-bottom: $small-spacing;
+    }
+
+
+    #counterMeasures {
+    
+        height: 85%;
+        
+        padding: $default-spacing; 
+        overflow:auto;
+    }
+}
+

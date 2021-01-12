@@ -1,0 +1,202 @@
+[
+  {"name": "Alabama",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Alaska",
+  "cases": 0,
+  "deaths": 0
+  },
+  {"name": "Arizona",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Arkansas",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "California",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Colorado",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Connecticut",
+  "cases": 0,
+  "deaths": 0
+  },
+  {"name": "Delaware",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Florida",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Georgia",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Hawaii",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Idaho",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Illinois",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Indiana",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Iowa",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Kansas",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Kentucky",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Louisiana",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Maine",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Maryland",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Massachusetts",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Michigan",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Minnesota",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Mississippi",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Missouri",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Montana",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Nebraska",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Nevada",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "New Hampshire",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "New Jersey",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "New Mexico",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "New York",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "North Carolina",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "North Dakota",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Ohio",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Oklahoma",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Oregon",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Pennsylvania",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Rhode Island",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "South Carolina",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "South Dakota",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Tennessee",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Texas",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Utah",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Vermont",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Virginia",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Washington",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "West Virginia",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Wisconsin",
+    "cases": 0,
+    "deaths": 0
+  },
+  {"name": "Wyoming",
+    "cases": 0,
+    "deaths": 0
+  }
+]

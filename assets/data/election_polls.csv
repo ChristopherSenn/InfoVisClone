@@ -1,0 +1,1262 @@
+state;stateName;pollster;startDate;endDate;numberOfObservations;biden;trump;other
+AK;Alaska;Alaska Survey Research;6/23/2020;1/1/2020;663;48;49;
+DI;District of Columbia;The Associated Press;1/1/2020;1/1/2020;;93;5;
+AL;Alabama;Mason-Dixon-3;2/4/2020;1/1/2020;;38;58;
+AR;Arkansas;Hendrix Coll.-2;6/9/2020;1/1/2020;;45;47;
+AZ;Arizona;Climate Nexus;2/11/2020;1/1/2020;539;42;46;
+CA;California;YouGov;2/1/2020;1/1/2020;;60;30;
+CO;Colorado;Climate Nexus;2/15/2020;1/1/2020;485;46;43;
+CT;Connecticut;Sacred Heart University;2/24/2020;1/1/2020;1000;52;36;
+DE;Delaware;Gonzales Research;1/16/2020;1/1/2020;;56;40;
+FL;Florida;Florida Atlantic University;1/9/2020;1/1/2020;;51;49;
+GA;Georgia;SurveyUSA;2/1/2020;1/1/2020;443;47;43;
+HI;Hawaii;MRG Research;7/27/2020;1/1/2020;975;56;29;
+ID;Idaho;Election 2020-1;11/3/2020;1/1/2020;;33;64;
+IA;Iowa;Siena College;1/20/2020;1/1/2020;;44;46;
+IL;Illinois;Victory Research;9/23/2020;1/1/2020;;53;40;
+IN;Indiana;Change Research;4/10/2020;1/1/2020;1021;39;52;5
+KS;Kansas;DFM Research;1/30/2020;1/1/2020;;43;51;
+KY;Kentucky;Public Policy Polling;5/14/2020;1/1/2020;1104;39;55;5
+LA;Louisiana;ALG Research;8/6/2020;1/1/2020;800;43;50;
+MA;Massachusetts;Emerson College;4/4/2020;1/1/2020;;69;31;
+MD;Maryland;Goucher College;2/13/2020;1/1/2020;718;60;35;
+ME;Maine;Public Policy Polling;3/2/2020;1/1/2020;872;52;42;
+MI;Michigan;Glengariff Group;1/3/2020;1/1/2020;;50;43;
+MN;Minnesota;Mason-Dixon Polling & Strategy;5/18/2020;1/1/2020;800;49;44;
+MO;Missouri;Remington Research Group;2/26/2020;1/1/2020;1050;42;52;
+MS;Mississippi;Mason-Dixon Polling & Research Inc.;2/26/2020;1/1/2020;625;41;56;
+MT;Montana;University of Montana;2/12/2020;1/1/2020;498;34;56;
+NC;North Carolina;SurveyUSA;2/13/2020;1/1/2020;2366;49;45;
+ND;North Dakota;DFM Research;1/28/2020;1/1/2020;1;38;57;
+NE;Nebraska;Election 2020-1;11/3/2020;1/1/2020;;39;59;
+NH;New Hampshire;Marist College;1/20/2020;1/1/2020;;51;43;
+NJ;New Jersey;Fairleigh Dickinson University (PublicMind);2/12/2020;1/1/2020;790;52;34;
+NM;New Mexico;Emerson College;1/3/2020;1/1/2020;;54;46;
+NV;Nevada;Fox News/Beacon Research/Shaw & Co. Research;1/5/2020;1/1/2020;;47;39;
+NY;New York;Siena College;2/16/2020;1/1/2020;658;55;36;
+OH;Ohio;Marist College;3/10/2020;1/1/2020;1710,49;45;
+OK;Oklahoma;Cole Hargrave Snodgrass & Associates;2/10/2020;1/1/2020;500;33;57;
+OR;Oregon;DHM Research;9/3/2020;1/1/2020;502;51;39;
+PA;Pennsylvania;Expedition Strategies;2/6/2020;1/1/2020;500;47;42;
+RI;Rhode Island;Election 2020-1;11/3/2020;1/1/2020;;60;39;
+SC;South Carolina;East Carolina University;1/31/2020;1/1/2020;;40;52;
+SD;South Dakota;Mason-Dixon Polling & Strategy;10/19/2020;1/1/2020;625;40;51;
+TN;Tennessee;Mason-Dixon Polling & Strategy;1/28/2020;1/1/2020;;39;55;
+TX;Texas;Texas Lyceum;1/10/2020;1/1/2020;;46;51;
+UT;Utah;RMG Research;1/15/2020;1/1/2020;;31;49;
+VT;Vermont;Braun Research;9/3/2020;1/1/2020;586;56;32;
+VA;Virginia;Roanoke College;2/9/2020;1/1/2020;520;48;40;
+WA;Washington;SurveyUSA;3/4/2020;1/1/2020;992;57;34;
+WI;Wisconsin;Fox News/Beacon Research/Shaw & Co. Research;1/5/2020;1/1/2020;;46;41;
+WV;West Virginia;Triton Poling & Research;9/29/2020;1/1/2020;525;38;56;
+WV;Wyoming;University of Wyoming;10/8/2020;1/1/2020;614;31;59;
+AK;Alaska;Gravis Marketing;10/26/2020;10/28/2020;770;43;52;
+AK;Alaska;Public Policy Polling;10/19/2020;10/20/2020;800;45;50;
+AK;Alaska;NYT/Siena College;10/9/2020;10/14/2020;423;39;45;8
+AK;Alaska;Alaska Survey Research;9/25/2020;10/4/2020;676;46;50;
+AK;Alaska;Harstad Strategic Research Inc.;9/20/2020;9/23/2020;602;46;47;
+AK;Alaska;Public Policy Polling;7/23/2020;7/24/2020;885;44;50;
+AK;Alaska;Alaska Survey Research;6/23/2020;7/7/2020;663;48;49;
+AK;Alaska;Public Policy Polling;7/7/2020;7/8/2020;1081;45;48;
+AL;Alabama;Data for Progress;10/27/2020;11/1/2020;1045;38;58;
+AL;Alabama;Moore Information;10/11/2020;10/14/2020;504;38;55;
+AL;Alabama;The Tyson Group;8/17/2020;8/18/2020;600;44;48;
+AL;Alabama;Morning Consult;7/24/2020;8/2/2020;609;36;58;
+AL;Alabama;FM3 Research;5/14/2020;5/18/2020;601;39;52;
+AL;Alabama;Election 2020-1;3/11/2020;3/11/2020;;37;62;
+AL;Alabama;Auburn U. at Montgomery-6;10/23/2020;10/28/2020;;39;58;
+AL;Alabama;Auburn U. at Montgomery-4;9/30/2020;10/3/2020;;37;57;
+AL;Alabama;Auburn U. at Montgomery-8;7/2/2020;7/9/2020;;41;55;
+AL;Alabama;Mason-Dixon-3;2/4/2020;2/6/2020;;38;58;
+AR;Arkansas;University of Arkansas;10/9/2020;10/21/2020;591;32;65;
+AZ;Arizona;Change Research;10/29/2020;11/1/2020;409;50;47;
+AZ;Arizona;Redfield & Wilton Strategies;10/26/2020;10/29/2020;889;50;46;2
+AZ;Arizona;Ipsos;10/27/2020;11/2/2020;610;50;47;2
+AZ;Arizona;Marist College;10/29/2020;11/1/2020;717;48;48;
+AZ;Arizona;Data Orbital;10/28/2020;10/30/2020;550;46;45;
+AZ;Arizona;Morning Consult;10/22/2020;10/31/2020;1059;48;46;
+AZ;Arizona;AtlasIntel;10/30/2020;10/31/2020;641;48;50;
+AZ;Arizona;Data for Progress;10/27/2020;11/1/2020;1195;50;47;
+AZ;Arizona;NYT/Siena College;10/26/2020;10/30/2020;1252;49;43;3
+AZ;Arizona;Y2 Analytics B;10/15/2020;10/24/2020;700;50;47;
+AZ;Arizona;SSRS;10/23/2020;10/30/2020;865;50;46;3
+AZ;Arizona;The Justice Collaborative Institute;10/22/2020;10/25/2020;1007;49;43;
+AZ;Arizona;Ipsos;10/21/2020;10/27/2020;714;48;46;
+AZ;Arizona;Latino Decisions;10/17/2020;10/25/2020;725;50;45;
+AZ;Arizona;Gravis Marketing;10/26/2020;10/28/2020;704;48;44;
+AZ;Arizona;Patinkin Research Strategies;10/21/2020;10/24/2020;729;52;45;
+AZ;Arizona;OH Predictive Insights amended;10/22/2020;10/25/2020;716;49;46;3
+AZ;Arizona;Morning Consult;10/11/2020;10/20/2020;1066;47;48;
+AZ;Arizona;Ipsos;10/14/2020;10/21/2020;658;50;46;1
+AZ;Arizona;Change Research;10/16/2020;10/19/2020;400;51;45;
+AZ;Arizona;Data Orbital;10/16/2020;10/18/2020;550;47;42;3
+AZ;Arizona;YouGov;10/13/2020;10/16/2020;1074;50;47;
+AZ;Arizona;Monmouth University;10/9/2020;10/13/2020;502;50;45;
+AZ;Arizona;OH Predictive Insights;10/4/2020;10/8/2020;608;49;45;4
+AZ;Arizona;Ipsos;10/7/2020;10/14/2020;667;50;46;
+AZ;Arizona;Morning Consult;10/2/2020;10/11/2020;1144;49;46;
+AZ;Arizona;Redfield & Wilton Strategies;10/4/2020;10/6/2020;727;49;43;
+AZ;Arizona;Ipsos;9/29/2020;10/7/2020;640;48;46;
+AZ;Arizona;Data Orbital;10/3/2020;10/5/2020;550;48;43;3
+AZ;Arizona;Change Research;10/2/2020;10/4/2020;586;51;45;
+AZ;Arizona;Strategies 360;9/24/2020;9/29/2020;800;49;45;
+AZ;Arizona;NYT/Siena College;10/1/2020;10/3/2020;655;49;41;3
+AZ;Arizona;Redfield & Wilton Strategies;9/23/2020;9/25/2020;871;47;44;2
+AZ;Arizona;Suffolk University;9/26/2020;9/30/2020;500;50;46;1
+AZ;Arizona;Data for Progress;9/24/2020;9/28/2020;808;49;45;1
+AZ;Arizona;Hart Research Associates;9/17/2020;9/19/2020;400;53;42;
+AZ;Arizona;Data for Progress;9/15/2020;9/22/2020;471;45;46;
+AZ;Arizona;Data Orbital;9/14/2020;9/17/2020;550;49;47;
+AZ;Arizona;Ipsos;9/11/2020;9/17/2020;565;47;46;
+AZ;Arizona;ABC News/Washington Post;9/15/2020;9/20/2020;701;48;49;
+AZ;Arizona;Change Research;9/18/2020;9/20/2020;262;49;43;
+AZ;Arizona;Redfield & Wilton Strategies;9/12/2020;9/16/2020;855;47;42;1
+AZ;Arizona;NYT/Siena College;9/10/2020;9/15/2020;653;49;40;4
+AZ;Arizona;Monmouth University;9/11/2020;9/15/2020;420;48;47;
+AZ;Arizona;Kaiser Family Foundation;8/29/2020;9/13/2020;1298;45;40;
+AZ;Arizona;OH Predictive Insights;9/8/2020;9/10/2020;600;52;42;
+AZ;Arizona;YouGov;9/9/2020;9/11/2020;1106;47;44;
+AZ;Arizona;Gravis Marketing;9/10/2020;9/11/2020;684;50;48;
+AZ;Arizona;Benenson Strategy Group/GS Strategy Group;8/28/2020;9/8/2020;1600;48;47;
+AZ;Arizona;Morning Consult;8/29/2020;9/7/2020;901;49;46;
+AZ;Arizona;Change Research;9/4/2020;9/6/2020;470;49;45;
+AZ;Arizona;Redfield & Wilton Strategies;8/21/2020;9/3/2020;830;48;43;1
+AZ;Arizona;Fox News/Beacon Research/Shaw & Co. Research;8/29/2020;9/1/2020;772;49;40;3
+AZ;Arizona;Morning Consult;8/21/2020;8/30/2020;943;52;42;
+AZ;Arizona;Morning Consult;8/7/2020;8/16/2020;700;45;47;
+AZ;Arizona;Change Research;8/21/2020;8/23/2020;344;49;47;
+AZ;Arizona;Redfield & Wilton Strategies;8/16/2020;8/18/2020;856;47;38;
+AZ;Arizona;Change Research;8/7/2020;8/9/2020;428;45;44;
+AZ;Arizona;OH Predictive Insights;8/3/2020;8/4/2020;603;49;45;
+AZ;Arizona;Data for Progress;7/24/2020;8/2/2020;1215;45;43;3
+AZ;Arizona;Redfield & Wilton Strategies;7/19/2020;7/24/2020;858;46;38;4
+AZ;Arizona;Change Research;7/24/2020;7/26/2020;365;47;45;
+AZ;Arizona;Morning Consult;7/17/2020;7/26/2020;908;49;42;
+AZ;Arizona;SSRS;7/18/2020;7/24/2020;873;49;45;
+AZ;Arizona;Marist College;7/14/2020;7/22/2020;826;50;45;
+AZ;Arizona;Public Policy Polling;7/17/2020;7/18/2020;960;49;45;
+AZ;Arizona;OH Predictive Insights;7/6/2020;7/7/2020;600;49;44;
+AZ;Arizona;Change Research;7/10/2020;7/12/2020;345;51;45;
+AZ;Arizona;YouGov;7/7/2020;7/10/2020;1087;46;46;
+AZ;Arizona;GBAO;4/13/2020;4/16/2020;500;47;46;
+AZ;Arizona;Data Orbital;6/27/2020;6/29/2020;600;47;45;
+AZ;Arizona;Change Research;6/26/2020;6/28/2020;400;51;44;
+AZ;Arizona;Redfield & Wilton Strategies;6/14/2020;6/17/2020;757;43;39;
+AZ;Arizona;NYT/Siena College;6/8/2020;6/16/2020;650;48;41;
+AZ;Arizona;Change Research;6/12/2020;6/14/2020;400;45;44;
+AZ;Arizona;Civiqs;6/13/2020;6/15/2020;1368;49;45;
+AZ;Arizona;Fox News/Beacon Research/Shaw & Co. Research;5/30/2020;6/2/2020;1002;46;42;
+AZ;Arizona;Change Research;5/29/2020;5/31/2020;329;44;45;
+AZ;Arizona;HighGround Inc.;5/18/2020;5/22/2020;400;47;45;5
+AZ;Arizona;Redfield & Wilton Strategies;5/10/2020;5/14/2020;946;45;41;
+AZ;Arizona;OH Predictive Insights;5/9/2020;5/11/2020;600;50;43;
+AZ;Arizona;OH Predictive Insights;4/7/2020;4/8/2020;600;52;43;
+AZ;Arizona;Marist College;3/10/2020;3/15/2020;2523;47;46;
+AZ;Arizona;Monmouth University;3/11/2020;3/14/2020;847;46;43;
+AZ;Arizona;Climate Nexus;2/11/2020;2/15/2020;539;42;46;
+AZ;Arizona;Latino Decisions;3/6/2020;3/11/2020;1036;50;42;
+AZ;Arizona;OH Predictive Insights;3/3/2020;3/4/2020;600;49;43;
+AZ;Arizona;Public Policy Polling;3/2/2020;3/4/2020;666;48;47;
+CA;California;David Binder Research;10/28/2020;11/1/2020;800;62;31;
+CA;California;University of California, Berkeley;10/16/2020;10/21/2020;5352;65;29;
+CA;California;Public Policy Institute of California;10/19/2020;10/18/2020;1185;58;32;5
+CA;California;SurveyUSA;9/26/2020;9/28/2020;558;59;32;
+CA;California;Redfield & Wilton Strategies;9/19/2020;9/21/2020;1775;62;28;2
+CA;California;University of California, Berkeley;9/5/2020;9/15/2020;5942;67;28;
+CA;California;Public Policy Institute of California;9/4/2020;9/13/2020;1168;60;31;5
+CA;California;David Binder Research;8/22/2020;8/24/2020;800;61;31;
+CA;California;Redfield & Wilton Strategies;8/9/2020;8/9/2020;1904;61;25;2
+CA;California;SurveyUSA;8/12/2020;8/12/2020;500;56;28;
+CA;California;University of California, Berkeley;7/21/2020;7/27/2020;6756;67;28;
+CA;California;Public Policy Institute of California;5/17/2020;5/26/2020;1048;57;33;
+CA;California;SurveyUSA;5/18/2020;5/19/2020;537;58;30;
+CA;California;Public Policy Polling;3/28/2020;3/29/2020;962;67;29;
+CA;California;AtlasIntel;2/24/2020;3/2/2020;1100;62;26;
+CA;California;YouGov;2/26/2020;2/28/2020;1507;59;31;
+CA;California;University of California, Berkeley;2/20/2020;2/25/2020;6002;60;31;
+CA;California;SSRS;2/22/2020;2/26/2020;951;60;35;
+CA;California;YouGov;1/2/2020;2/15/2020;1200;60;30;
+CA;California;SurveyUSA;2/13/2020;2/16/2020;1196;57;37;
+CO;Colorado;Morning Consult;10/22/2020;10/31/2020;727;54;41;
+CO;Colorado;Data for Progress;10/27/2020;11/1/2020;709;54;42;
+CO;Colorado;Keating Research;10/29/2020;11/1/2020;502;53;41;
+CO;Colorado;Morning Consult;10/11/2020;10/20/2020;788;55;39;
+CO;Colorado;RMG Research;10/9/2020;10/15/2020;800;51;43;3
+CO;Colorado;YouGov;10/5/2020;10/9/2020;800;47;38;
+CO;Colorado;Keating Research;10/8/2020;10/13/2020;519;54;49;
+CO;Colorado;Civiqs;10/11/2020;10/14/2020;1013;54;42;
+CO;Colorado;Morning Consult;10/2/2020;10/11/2020;837;54;40;
+CO;Colorado;Global Strategy Group;8/28/2020;9/1/2020;800;50;39;6
+CO;Colorado;Fabrizio Ward/Hart Research Associates;8/30/2020;9/5/2020;1549;50;40;
+CO;Colorado;Morning Consult;8/29/2020;9/7/2020;657;49;43;
+CO;Colorado;Morning Consult;8/21/2020;8/30/2020;700;51;41;
+CO;Colorado;Morning Consult;8/7/2020;8/16/2020;700;51;41;
+CO;Colorado;Morning Consult;7/17/2020;7/26/2020;616;52;39;
+CO;Colorado;Public Policy Polling;7/23/2020;7/24/2020;891;54;41;
+CO;Colorado;Public Policy Polling;6/29/2020;6/30/2020;840;56;39;
+CO;Colorado;Global Strategy Group;5/7/2020;5/11/2020;800;53;40;
+CO;Colorado;Keating Research;5/1/2020;5/3/2020;600;55;35;
+CO;Colorado;Montana State University Bozeman;4/10/2020;4/27/2020;380;53;35;
+CO;Colorado;Climate Nexus;2/15/2020;2/19/2020;485;46;43;
+CT;Connecticut;Sacred Heart University;10/8/2020;10/21/2020;1000;51;26;
+CT;Connecticut;SurveyUSA;5/19/2020;5/24/2020;808;52;32;
+CT;Connecticut;Quinnipiac University;4/30/2020;5/4/2020;945;56;33;2
+CT;Connecticut;Sacred Heart University;3/24/2020;4/3/2020;1000;48;34;
+CT;Connecticut;Sacred Heart University;2/24/2020;3/12/2020;1000;52;36;
+FL;Florida;Change Research;10/29/2020;11/1/2020;806;51;48;
+FL;Florida;Redfield & Wilton Strategies;10/27/2020;10/28/2020;1587;50;46;1
+FL;Florida;Data for Progress;10/21/2020;11/1/2020;1202;51;48;2
+FL;Florida;AYTM;10/30/2020;11/1/2020;517;45;43;3
+FL;Florida;Ipsos;10/27/2020;11/2/2020;670;50;46;2
+FL;Florida;Quinnipiac University;10/28/2020;11/1/2020;1657;47;42;
+FL;Florida;Morning Consult;10/22/2020;10/31/2020;4451;52;45;
+FL;Florida;Targoz Market Research;10/25/2020;10/30/2020;1027;51;47;
+FL;Florida;CES;9/29/2020;10/27/2020;3755;49;47;
+FL;Florida;NYT/Siena College;10/27/2020;10/31/2020;1451;47;44;3
+FL;Florida;St Pete Polls;10/29/2020;10/30/2020;2758;49;48;
+FL;Florida;RMG Research;10/28/2020;10/30/2020;1200;51;47;
+FL;Florida;ABC News/Washington Post;10/24/2020;10/29/2020;824;48;50;1
+FL;Florida;AtlasIntel;10/28/2020;10/29/2020;786;49;49;
+FL;Florida;Public Policy Polling;10/28/2020;10/29/2020;941;52;45;
+FL;Florida;YouGov;10/16/2020;10/26/2020;1200;48;46;
+FL;Florida;Monmouth University;10/24/2020;10/28/2020;509;51;46;
+FL;Florida;Quinnipiac University;10/23/2020;10/27/2020;1324;45;42;
+FL;Florida;Marist College;10/25/2020;10/27/2020;742;51;47;
+FL;Florida;Ipsos;10/21/2020;10/27/2020;704;49;47;
+FL;Florida;Latino Decisions;10/17/2020;10/25/2020;743;49;46;
+FL;Florida;Florida Atlantic University;10/24/2020;10/25/2020;937;50;48;
+FL;Florida;RMG Research;10/20/2020;10/22/2020;800;50;48;
+FL;Florida;YouGov;10/20/2020;10/23/2020;1228;50;48;
+FL;Florida;St Pete Polls;10/21/2020;10/22/2020;2527;49;47;
+FL;Florida;Morning Consult;10/11/2020;10/20/2020;4685;52;45;
+FL;Florida;Ipsos;10/14/2020;10/20/2020;662;51;46;2
+FL;Florida;SSRS;10/15/2020;10/20/2020;8847;50;46;2
+FL;Florida;Civiqs;10/17/2020;10/20/2020;863;51;47;
+FL;Florida;Change Research;10/16/2020;10/19/2020;400;50;45;
+FL;Florida;University of North Florida;10/12/2020;10/16/2020;863;48;47;
+FL;Florida;Mason-Dixon Polling & Strategy;10/8/2020;10/12/2020;625;48;45;
+FL;Florida;Clearview Reseach;10/7/2020;10/12/2020;550;47;40;
+FL;Florida;Ipsos;10/7/2020;10/14/2020;654;49;47;
+FL;Florida;St Pete Polls;10/11/2020;10/12/2020;2215;49;47;
+FL;Florida;RMG Research;10/4/2020;10/8/2020;800;48;46;2
+FL;Florida;Morning Consult;10/2/2020;10/11/2020;4785;51;46;
+FL;Florida;Florida Atlantic University;10/9/2020;10/10/2020;644;51;47;
+FL;Florida;Redfield & Wilton Strategies;10/4/2020;10/6/2020;998;49;44;
+FL;Florida;Saint Leo University;9/27/2020;10/2/2020;489;50;44;
+FL;Florida;Ipsos;9/29/2020;10/7/2020;640;49;45;
+FL;Florida;Quinnipiac University;10/1/2020;10/5/2020;1256;51;40;
+FL;Florida;Change Research;10/2/2020;10/4/2020;586;50;46;
+FL;Florida;University of North Florida;10/1/2020;10/4/2020;3142;51;45;
+FL;Florida;Suffolk University;10/1/2020;10/4/2020;500;45;45;3
+FL;Florida;NYT/Siena College;9/30/2020;10/1/2020;719;47;42;3
+FL;Florida;Redfield & Wilton Strategies;9/23/2020;9/25/2020;1073;48;43;2
+FL;Florida;Hart Research Associates;9/17/2020;9/19/2020;400;51;45;
+FL;Florida;Data for Progress;9/15/2020;9/22/2020;620;46;43;
+FL;Florida;Ipsos;9/11/2020;9/16/2020;586;47;47;
+FL;Florida;St Pete Polls;9/21/2020;9/22/2020;2906;50;47;
+FL;Florida;Change Research;9/18/2020;9/20/2020;702;49;46;
+FL;Florida;ABC News/Washington Post;9/15/2020;9/20/2020;613;47;51;
+FL;Florida;The Tyson Group;8/11/2020;8/15/2020;750;46;44;2
+FL;Florida;YouGov;9/15/2020;9/18/2020;1205;48;46;
+FL;Florida;Redfield & Wilton Strategies;9/12/2020;9/16/2020;1158;47;44;2
+FL;Florida;Kaiser Family Foundation;8/29/2020;9/13/2020;1009;43;42;
+FL;Florida;Monmouth University;9/10/2020;9/13/2020;428;50;46;
+FL;Florida;Florida Atlantic University;9/11/2020;9/12/2020;641;50;50;
+FL;Florida;Benenson Strategy Group/GS Strategy Group;8/28/2020;9/8/2020;1600;48;46;
+FL;Florida;St Pete Polls;9/7/2020;9/8/2020;2689;50;47;
+FL;Florida;Morning Consult;8/29/2020;9/7/2020;3914;50;45;
+FL;Florida;Change Research;9/4/2020;9/6/2020;1144;49;46;
+FL;Florida;Redfield & Wilton Strategies;8/21/2020;9/3/2020;1093;47;44;2
+FL;Florida;GQR Research;8/26/2020;9/3/2020;1000;51;46;
+FL;Florida;Marist College;8/31/2020;9/6/2020;766;48;48;
+FL;Florida;Quinnipiac University;8/28/2020;9/1/2020;1235;48;45;
+FL;Florida;Opinium;8/21/2020;8/26/2020;684;50;43;
+FL;Florida;Morning Consult;8/21/2020;8/30/2020;700;49;47;
+FL;Florida;Morning Consult;8/7/2020;8/16/2020;700;50;45;
+FL;Florida;Change Research;8/21/2020;8/23/2020;1262;49;46;
+FL;Florida;Public Policy Polling;8/21/2020;8/22/2020;671;48;44;
+FL;Florida;Redfield & Wilton Strategies;8/16/2020;8/16/2020;1280;49;41;
+FL;Florida;Change Research;8/7/2020;8/9/2020;469;50;44;
+FL;Florida;Redfield & Wilton Strategies;7/19/2020;7/24/2020;1121;48;41;2
+FL;Florida;Mason-Dixon Polling & Strategy;7/20/2020;7/23/2020;625;50;46;
+FL;Florida;Change Research;7/24/2020;7/26/2020;685;48;45;
+FL;Florida;Morning Consult;7/17/2020;7/26/2020;3760;49;46;
+FL;Florida;SSRS;7/18/2020;7/24/2020;880;51;46;
+FL;Florida;Quinnipiac University;7/16/2020;7/20/2020;924;51;38;
+FL;Florida;St Pete Polls;7/13/2020;7/14/2020;3018;50;44;
+FL;Florida;Change Research;7/10/2020;7/12/2020;1128;50;43;
+FL;Florida;Gravis Marketing;7/13/2020;7/13/2020;529;53;43;
+FL;Florida;YouGov;7/7/2020;7/10/2020;1206;48;42;
+FL;Florida;Change Research;6/26/2020;6/28/2020;400;50;45;
+FL;Florida;Fox News/Beacon Research/Shaw & Co. Research;6/20/2020;6/23/2020;1010;49;40;
+FL;Florida;Redfield & Wilton Strategies;6/14/2020;6/15/2020;942;45;41;
+FL;Florida;NYT/Siena College;6/8/2020;6/18/2020;651;47;41;
+FL;Florida;Change Research;6/12/2020;6/14/2020;400;50;43;
+FL;Florida;TIPP;6/9/2020;6/11/2020;910;50;40;
+FL;Florida;TIPP;6/9/2020;6/11/2020;875;51;40;
+FL;Florida;Cygnal;5/18/2020;5/30/2020;881;47;44;
+FL;Florida;Change Research;5/29/2020;5/31/2020;1186;48;45;
+FL;Florida;St Pete Polls;5/26/2020;5/27/2020;4763;48;47;3
+FL;Florida;Redfield & Wilton Strategies;5/10/2020;5/14/2020;1014;45;43;
+FL;Florida;Point Blank Political;5/14/2020;5/17/2020;2149;45;44;3
+FL;Florida;Florida Atlantic University;5/8/2020;5/12/2020;928;53;47;
+FL;Florida;Quinnipiac University;4/16/2020;4/20/2020;1385;46;42;4
+FL;Florida;St Pete Polls;4/14/2020;4/17/2020;5659;48;48;
+FL;Florida;University of North Florida;3/31/2020;4/4/2020;3244;46;40;
+FL;Florida;AtlasIntel;3/14/2020;3/16/2020;1100;45;45;
+FL;Florida;Latino Decisions;3/6/2020;3/12/2020;1071;45;48;
+FL;Florida;Florida Atlantic University;3/5/2020;3/7/2020;1216;49;51;
+FL;Florida;Saint Leo University;2/17/2020;2/22/2020;900;51;40;
+FL;Florida;University of North Florida;2/10/2020;2/18/2020;668;49;48;
+GA;Georgia;Data for Progress;10/21/2020;11/1/2020;1036;50;48;1
+GA;Georgia;AYTM;10/30/2020;11/1/2020;380;52;48;3
+GA;Georgia;Landmark Communications;11/1/2020;11/1/2020;500;46;50;3
+GA;Georgia;Morning Consult;10/22/2020;10/31/2020;1743;49;46;
+GA;Georgia;CES;9/29/2020;10/27/2020;1456;48;47;
+GA;Georgia;Landmark Communications;10/28/2020;10/28/2020;750;47;48;3
+GA;Georgia;Public Policy Polling;10/27/2020;10/28/2020;661;48;46;
+GA;Georgia;Monmouth University;10/23/2020;10/27/2020;504;50;47;
+GA;Georgia;Civiqs;10/23/2020;10/26/2020;1047;51;46;
+GA;Georgia;University of Georgia;10/14/2020;10/23/2020;1145;47;46;3
+GA;Georgia;YouGov;10/20/2020;10/23/2020;1090;49;49;
+GA;Georgia;Landmark Communications;10/21/2020;10/21/2020;500;45;49;
+GA;Georgia;Morning Consult;10/11/2020;10/20/2020;1672;48;46;
+GA;Georgia;Garin-Hart-Yang Research Group;10/11/2020;10/14/2020;600;51;44;
+GA;Georgia;NYT/Siena College;10/13/2020;10/19/2020;749;45;45;3
+GA;Georgia;Data for Progress;10/8/2020;10/11/2020;782;46;46;
+GA;Georgia;Quinnipiac University;10/8/2020;10/12/2020;1040;51;44;
+GA;Georgia;SurveyUSA;10/8/2020;10/12/2020;677;48;46;
+GA;Georgia;Morning Consult;10/2/2020;10/11/2020;1837;47;49;
+GA;Georgia;Landmark Communications;10/7/2020;10/7/2020;600;47;49;1
+GA;Georgia;Public Policy Polling;10/8/2020;10/9/2020;528;47;46;
+GA;Georgia;University of Georgia;9/27/2020;10/6/2020;1106;46;48;
+GA;Georgia;Hart Research Associates;9/24/2020;9/27/2020;400;50;47;
+GA;Georgia;Landmark Communications;9/30/2020;9/30/2020;500;47;45;3
+GA;Georgia;Civiqs;9/26/2020;9/29/2020;969;50;47;
+GA;Georgia;Quinnipiac University;9/23/2020;9/27/2020;1125;50;47;
+GA;Georgia;YouGov;9/22/2020;9/25/2020;1164;46;47;
+GA;Georgia;Data for Progress;9/14/2020;9/19/2020;800;46;46;
+GA;Georgia;NYT/Siena College;9/16/2020;9/22/2020;523;45;45;2
+GA;Georgia;Monmouth University;9/17/2020;9/21/2020;402;46;49;2
+GA;Georgia;University of Georgia;9/11/2020;9/20/2020;1150;47;47;1
+GA;Georgia;GBAO;9/14/2020;9/16/2020;600;49;46;
+GA;Georgia;Redfield & Wilton Strategies;9/12/2020;9/18/2020;800;45;46;3
+GA;Georgia;Fabrizio Ward/Hart Research Associates;8/30/2020;9/5/2020;1558;47;46;
+GA;Georgia;Morning Consult;8/29/2020;9/7/2020;1486;46;48;
+GA;Georgia;Landmark Communications;8/29/2020;8/31/2020;500;41;48;2
+GA;Georgia;Morning Consult;8/21/2020;8/30/2020;700;49;46;
+GA;Georgia;Morning Consult;8/7/2020;8/16/2020;700;46;47;
+GA;Georgia;Public Policy Polling;8/24/2020;8/25/2020;782;47;46;
+GA;Georgia;Landmark Communications;8/14/2020;8/15/2020;500;45;47;4
+GA;Georgia;SurveyUSA;8/6/2020;8/8/2020;623;46;44;
+GA;Georgia;YouGov;7/28/2020;7/31/2020;1109;46;45;
+GA;Georgia;Monmouth University;7/23/2020;7/27/2020;402;47;48;
+GA;Georgia;Morning Consult;7/17/2020;7/26/2020;1337;47;46;
+GA;Georgia;Public Policy Polling;7/23/2020;7/24/2020;722;46;45;
+GA;Georgia;Garin-Hart-Yang Research Group;7/9/2020;7/15/2020;800;47;43;
+GA;Georgia;Public Policy Polling;6/25/2020;6/26/2020;734;49;45;
+GA;Georgia;Fox News/Beacon Research/Shaw & Co. Research;6/20/2020;6/23/2020;1012;47;45;
+GA;Georgia;Public Policy Polling;6/12/2020;6/13/2020;661;48;46;
+GA;Georgia;TargetSmart/Dynata;5/21/2020;5/27/2020;321;40;44;
+GA;Georgia;Civiqs;5/16/2020;5/18/2020;1339;48;47;3
+GA;Georgia;BK Strategies;5/11/2020;5/13/2020;700;46;48;
+GA;Georgia;Public Opinion Strategies;5/4/2020;5/7/2020;500;47;46;
+GA;Georgia;Cygnal;4/25/2020;4/27/2020;604;44;45;
+GA;Georgia;Battleground Connect;3/31/2020;4/1/2020;1035;46;48;
+GA;Georgia;University of Georgia;2/24/2020;3/2/2020;1117;43;51;
+GA;Georgia;Mason-Dixon Polling & Research Inc.;2/1/2020;2/1/2020;525;44;51;
+GA;Georgia;SurveyUSA;2/1/2020;2/1/2020;443;47;43;
+HI;Hawaii;MRG Research;10/2/2020;10/7/2020;988;61;28;
+HI;Hawaii;MRG Research;7/27/2020;7/30/2020;975;56;29;
+IA;Iowa;Change Research;10/29/2020;11/1/2020;1084;47;47;3
+IA;Iowa;Data for Progress;10/21/2020;11/1/2020;951;47;49;4
+IA;Iowa;Public Policy Polling;11/1/2020;11/2/2020;871;49;48;
+IA;Iowa;Civiqs;10/29/2020;11/1/2020;853;49;48;
+IA;Iowa;Selzer & Co.;10/26/2020;10/29/2020;814;41;48;
+IA;Iowa;Quinnipiac University;10/23/2020;10/27/2020;1225;46;47;
+IA;Iowa;RABA Research;10/21/2020;10/24/2020;693;50;46;
+IA;Iowa;NYT/Siena College;10/18/2020;10/20/2020;753;46;43;3
+IA;Iowa;Monmouth University;10/15/2020;10/19/2020;501;51;47;
+IA;Iowa;Data for Progress;10/8/2020;10/11/2020;822;47;48;
+IA;Iowa;David Binder Research;10/10/2020;10/13/2020;220;44;50;
+IA;Iowa;YouGov;10/6/2020;10/9/2020;1035;49;49;
+IA;Iowa;Quinnipiac University;10/1/2020;10/5/2020;1205;50;45;
+IA;Iowa;Civiqs;10/3/2020;10/6/2020;756;48;47;
+IA;Iowa;Hart Research Associates;9/24/2020;9/27/2020;400;47;49;
+IA;Iowa;Data for Progress;9/24/2020;9/28/2020;743;44;47;2
+IA;Iowa;RABA Research;9/23/2020;9/26/2020;780;48;46;
+IA;Iowa;Monmouth University;9/18/2020;9/22/2020;402;46;49;2
+IA;Iowa;NYT/Siena College;9/16/2020;9/22/2020;501;45;42;2
+IA;Iowa;Selzer & Co.;9/14/2020;9/17/2020;658;47;47;
+IA;Iowa;Fabrizio Ward/Hart Research Associates;8/30/2020;9/5/2020;1600;45;47;
+IA;Iowa;RMG Research;7/27/2020;7/30/2020;500;40;41;
+IA;Iowa;Data for Progress;7/24/2020;8/2/2020;1011;42;44;4
+IA;Iowa;David Binder Research;7/30/2020;7/31/2020;200;49;43;
+IA;Iowa;Monmouth University;7/30/2020;8/3/2020;401;47;48;
+IA;Iowa;Public Policy Polling;7/23/2020;7/24/2020;1118;47;48;
+IA;Iowa;GBAO;4/13/2020;4/16/2020;500;45;48;
+IA;Iowa;Selzer & Co.;6/7/2020;6/10/2020;674;43;44;
+IA;Iowa;Civiqs;6/6/2020;6/8/2020;865;46;46;3
+IA;Iowa;Public Policy Polling;6/3/2020;6/4/2020;963;47;48;
+IA;Iowa;Public Policy Polling;4/30/2020;5/1/2020;1222;46;48;
+IA;Iowa;Selzer & Co.;3/2/2020;3/6/2020;667;41;51;
+IL;Illinois;Victory Research;10/26/2020;11/1/2020;1208;54;38;
+IL;Illinois;Research Co.;10/31/2020;11/1/2020;450;55;38;
+IN;Indiana;Morning Consult;10/22/2020;10/31/2020;1147;42;53;
+IN;Indiana;SurveyUSA;10/8/2020;10/13/2020;685;42;49;
+IN;Indiana;Change Research;9/3/2020;9/7/2020;1033;30;53;5
+IN;Indiana;Morning Consult;7/24/2020;8/2/2020;900;38;55;
+IN;Indiana;Change Research;4/10/2020;4/13/2020;1021;39;52;5
+KS;Kansas;Data for Progress;10/21/2020;11/1/2020;1121;41;55;4
+KS;Kansas;NYT/Siena College;10/18/2020;10/20/2020;755;41;48;
+KS;Kansas;Public Policy Polling;10/19/2020;10/20/2020;897;42;54;
+KS;Kansas;Fort Hays State University;9/21/2020;10/1/2020;417;36;46;
+KS;Kansas;Civiqs;9/26/2020;9/29/2020;677;42;52;
+KS;Kansas;Data for Progress;9/14/2020;9/19/2020;883;45;49;
+KS;Kansas;SurveyUSA;8/5/2020;8/9/2020;1202;41;48;
+KS;Kansas;Public Policy Polling;8/5/2020;8/6/2020;864;43;50;
+KS;Kansas;Civiqs;5/30/2020;6/1/2020;699;40;52;6
+KS;Kansas;Public Policy Polling;3/10/2020;3/11/2020;1567;40;52;
+KY;Kentucky;Mason-Dixon Polling & Strategy;10/12/2020;10/15/2020;625;39;56;
+KY;Kentucky;Data for Progress;9/14/2020;9/19/2020;807;38;56;
+KY;Kentucky;Quinnipiac University;9/10/2020;9/14/2020;1164;38;58;
+KY;Kentucky;Quinnipiac University;7/30/2020;8/3/2020;909;41;50;
+KY;Kentucky;Morning Consult;7/24/2020;8/2/2020;793;35;58;
+KY;Kentucky;Garin-Hart-Yang Research Group;7/7/2020;7/12/2020;800;41;53;
+KY;Kentucky;Civiqs;6/13/2020;6/15/2020;898;37;57;
+KY;Kentucky;RMG Research;5/21/2020;5/24/2020;500;36;53;
+KY;Kentucky;Public Policy Polling;5/14/2020;5/15/2020;1104;39;55;5
+LA;Louisiana;University of New Orleans;10/22/2020;10/22/2020;755;36;59;
+LA;Louisiana;The Tyson Group;9/2/2020;9/5/2020;600;42;48;
+LA;Louisiana;ALG Research;8/6/2020;8/12/2020;800;43;50;
+MA;Massachusetts;MassINC Polling Group;10/23/2020;10/30/2020;929;62;28;
+MA;Massachusetts;YouGov;7/31/2020;8/7/2020;500;61;28;
+MA;Massachusetts;MassInc Polling Group;8/6/2020;8/9/2020;501;63;27;
+MA;Massachusetts;MassInc Polling Group;7/17/2020;7/20/2020;797;55;23;
+MA;Massachusetts;University of Massachusetts Lowell;4/27/2020;5/1/2020;1000;58;30;7
+MD;Maryland;Gonzales Research & Marketing Strategies Inc.;10/19/2020;10/24/2020;820;58;33;
+MD;Maryland;Goucher College;9/30/2020;10/4/2020;776;61;30;4
+MD;Maryland;Change Research;9/29/2020;10/1/2020;650;61;32;
+MD;Maryland;OpinionWorks;9/4/2020;9/11/2020;753;62;30;
+MD;Maryland;Gonzales Research & Media Services;5/19/2020;5/23/2020;810;59;35;
+MD;Maryland;Goucher College;2/13/2020;2/19/2020;718;60;35;
+ME;Maine;Change Research;10/29/2020;11/2/2020;1024;52;40;6
+ME;Maine;SurveyUSA;10/23/2020;10/27/2020;1007;53;40;5
+ME;Maine;Colby College;10/21/2020;10/25/2020;879;51;38;
+ME;Maine;Pan Atlantic Research;10/2/2020;10/6/2020;600;50;40;
+ME;Maine;Critical Insights;9/25/2020;10/4/2020;466;51;40;4
+ME;Maine;Data for Progress;9/24/2020;9/28/2020;718;53;39;
+ME;Maine;Colby College;9/17/2020;9/23/2020;847;50;39;
+ME;Maine;Suffolk University;9/17/2020;9/20/2020;500;51;39;
+ME;Maine;NYT/Siena College;9/11/2020;9/16/2020;663;55;38;
+ME;Maine;Quinnipiac University;9/10/2020;9/14/2020;1183;59;38;
+ME;Maine;Fabrizio Ward/Hart Research Associates;8/30/2020;9/5/2020;1886;54;40;
+ME;Maine;Critical Insights;7/28/2020;8/9/2020;500;44;36;
+ME;Maine;RMG Research;7/27/2020;8/2/2020;500;50;39;
+ME;Maine;Quinnipiac University;7/30/2020;8/3/2020;807;52;37;
+ME;Maine;Data for Progress;7/24/2020;8/2/2020;866;49;42;2
+ME;Maine;Colby College;7/18/2020;7/24/2020;888;50;38;
+ME;Maine;Public Policy Polling;7/23/2020;7/24/2020;962;53;42;
+ME;Maine;Public Policy Polling;7/2/2020;7/3/2020;1022;53;42;
+ME;Maine;Public Policy Polling;3/2/2020;3/4/2020;872;52;42;
+MI;Michigan;Change Research;10/29/2020;11/1/2020;383;51;44;
+MI;Michigan;Redfield & Wilton Strategies;10/26/2020;10/29/2020;1212;54;41;1
+MI;Michigan;Research Co.;10/31/2020;11/1/2020;450;50;43;
+MI;Michigan;Morning Consult;10/22/2020;10/31/2020;1736;52;45;
+MI;Michigan;Targoz Market Research;10/25/2020;10/30/2020;993;53;39;
+MI;Michigan;Mitchell Research & Communications;10/29/2020;10/29/2020;817;52;45;2
+MI;Michigan;Ipsos;10/27/2020;11/1/2020;653;53;43;1
+MI;Michigan;EPIC-MRA;10/25/2020;10/28/2020;600;48;41;
+MI;Michigan;SSRS;10/23/2020;10/30/2020;907;53;41;3
+MI;Michigan;RMG Research;10/27/2020;10/28/2020;800;51;44;
+MI;Michigan;Public Policy Polling;10/28/2020;10/29/2020;749;54;44;1
+MI;Michigan;Kiaer Research;10/21/2020;10/28/2020;669;54;41;
+MI;Michigan;Mitchell Research & Communications;10/25/2020;10/27/2020;759;52;42;3
+MI;Michigan;NYT/Siena College;10/23/2020;10/26/2020;856;49;41;
+MI;Michigan;ABC News/Washington Post;10/20/2020;10/25/2020;789;51;44;2
+MI;Michigan;Glengariff Group;10/23/2020;10/25/2020;600;49;42;
+MI;Michigan;Ipsos;10/21/2020;10/27/2020;652;52;43;
+MI;Michigan;YouGov;10/13/2020;10/21/2020;681;52;42;
+MI;Michigan;Gravis Marketing;10/24/2020;10/24/2020;679;55;42;
+MI;Michigan;EPIC-MRA;10/15/2020;10/19/2020;600;48;39;
+MI;Michigan;Public Policy Polling;10/21/2020;10/22/2020;804;50;43;
+MI;Michigan;Morning Consult;10/11/2020;10/20/2020;1717;52;44;
+MI;Michigan;Data for Progress;10/15/2020;10/18/2020;830;50;45;2
+MI;Michigan;Fox News/Beacon Research/Shaw & Co. Research;10/17/2020;10/20/2020;1032;52;40;
+MI;Michigan;Change Research;10/16/2020;10/19/2020;400;51;44;
+MI;Michigan;Ipsos;10/14/2020;10/20/2020;686;51;44;2
+MI;Michigan;Mitchell Research & Communications;10/18/2020;10/18/2020;900;51;41;4
+MI;Michigan;Civiqs;10/8/2020;10/11/2020;543;52;43;
+MI;Michigan;RMG Research;10/8/2020;10/13/2020;800;48;42;3
+MI;Michigan;EPIC-MRA;10/8/2020;10/12/2020;600;48;39;
+MI;Michigan;Ipsos;10/7/2020;10/13/2020;620;51;44;4
+MI;Michigan;Morning Consult;10/2/2020;10/11/2020;1710;51;44;
+MI;Michigan;NYT/Siena College;10/6/2020;10/11/2020;614;48;40;2
+MI;Michigan;YouGov;10/6/2020;10/9/2020;1190;52;46;
+MI;Michigan;Baldwin Wallace University;9/30/2020;10/8/2020;1134;50;43;2
+MI;Michigan;Redfield & Wilton Strategies;10/4/2020;10/6/2020;700;50;42;
+MI;Michigan;Ipsos;9/29/2020;10/6/2020;709;51;43;
+MI;Michigan;Change Research;10/2/2020;10/4/2020;586;51;43;
+MI;Michigan;Redfield & Wilton Strategies;9/23/2020;9/25/2020;785;51;42;1
+MI;Michigan;Public Policy Polling;9/30/2020;10/1/2020;746;50;44;3
+MI;Michigan;Marist College;9/19/2020;9/23/2020;799;52;44;
+MI;Michigan;Hart Research Associates;9/17/2020;9/19/2020;400;50;45;
+MI;Michigan;Data for Progress;9/14/2020;9/19/2020;455;50;44;
+MI;Michigan;YouGov;9/10/2020;9/21/2020;641;51;45;
+MI;Michigan;Baldwin Wallace University;9/8/2020;9/22/2020;1001;50;42;1
+MI;Michigan;Change Research;9/18/2020;9/20/2020;568;51;43;
+MI;Michigan;Ipsos;9/11/2020;9/16/2020;637;49;44;
+MI;Michigan;Market Research Group;9/14/2020;9/19/2020;600;46;41;
+MI;Michigan;Redfield & Wilton Strategies;9/12/2020;9/16/2020;930;49;39;3
+MI;Michigan;Civiqs;9/11/2020;9/15/2020;517;53;42;
+MI;Michigan;EPIC-MRA;9/10/2020;9/15/2020;600;48;40;
+MI;Michigan;Benenson Strategy Group/GS Strategy Group;8/28/2020;9/8/2020;1600;50;43;
+MI;Michigan;Morning Consult;8/29/2020;9/7/2020;1455;52;42;
+MI;Michigan;Change Research;9/4/2020;9/6/2020;876;49;43;
+MI;Michigan;Glengariff Group;9/1/2020;9/3/2020;600;47;42;
+MI;Michigan;Redfield & Wilton Strategies;8/21/2020;9/3/2020;967;51;40;1
+MI;Michigan;Hodas & Associates;8/11/2020;8/15/2020;600;52;41;
+MI;Michigan;Public Policy Polling;8/28/2020;8/29/2020;897;48;44;4
+MI;Michigan;Morning Consult;8/21/2020;8/30/2020;700;52;42;
+MI;Michigan;Morning Consult;8/7/2020;8/16/2020;700;50;44;
+MI;Michigan;Change Research;8/21/2020;8/23/2020;809;50;44;
+MI;Michigan;Redfield & Wilton Strategies;8/16/2020;8/18/2020;812;50;38;
+MI;Michigan;Civiqs;8/13/2020;8/17/2020;631;49;46;3
+MI;Michigan;Change Research;8/7/2020;8/9/2020;413;48;43;
+MI;Michigan;YouGov;7/27/2020;8/6/2020;761;47;43;
+MI;Michigan;EPIC-MRA;7/25/2020;7/30/2020;600;51;40;
+MI;Michigan;David Binder Research;7/30/2020;7/31/2020;200;51;41;
+MI;Michigan;Hodas & Associates;7/13/2020;7/16/2020;600;53;41;
+MI;Michigan;Public Policy Polling;7/28/2020;7/29/2020;876;49;43;
+MI;Michigan;Redfield & Wilton Strategies;7/19/2020;7/24/2020;811;49;37;2
+MI;Michigan;Change Research;7/24/2020;7/26/2020;413;46;42;
+MI;Michigan;Morning Consult;7/17/2020;7/26/2020;1320;52;42;
+MI;Michigan;YouGov;7/21/2020;7/24/2020;1156;48;42;
+MI;Michigan;SSRS;7/18/2020;7/24/2020;927;52;40;
+MI;Michigan;Gravis Marketing;7/22/2020;7/22/2020;754;51;42;
+MI;Michigan;Fox News/Beacon Research/Shaw & Co. Research;7/17/2020;7/20/2020;756;49;40;
+MI;Michigan;Public Policy Polling;7/9/2020;7/10/2020;1041;51;44;
+MI;Michigan;Change Research;7/10/2020;7/12/2020;824;48;42;
+MI;Michigan;Public Policy Polling;6/26/2020;6/27/2020;1237;50;44;
+MI;Michigan;Change Research;6/26/2020;6/28/2020;400;48;43;
+MI;Michigan;Redfield & Wilton Strategies;6/14/2020;6/16/2020;719;47;36;
+MI;Michigan;Hodas & Associates;6/17/2020;6/20/2020;600;56;38;
+MI;Michigan;NYT/Siena College;6/8/2020;6/17/2020;610;47;36;
+MI;Michigan;Change Research;6/12/2020;6/14/2020;400;47;45;
+MI;Michigan;TIPP;6/9/2020;6/12/2020;907;50;37;
+MI;Michigan;TIPP;6/9/2020;6/12/2020;859;51;38;
+MI;Michigan;EPIC-MRA;5/31/2020;6/4/2020;600;55;39;
+MI;Michigan;Kiaer Research;5/31/2020;6/7/2020;543;50;35;
+MI;Michigan;EPIC-MRA;5/30/2020;6/3/2020;600;53;41;
+MI;Michigan;Change Research;5/29/2020;5/31/2020;620;48;46;
+MI;Michigan;Public Policy Polling;5/29/2020;5/30/2020;1582;50;44;
+MI;Michigan;Public Policy Polling;5/18/2020;5/19/2020;1234;51;45;
+MI;Michigan;Change Research;5/16/2020;5/19/2020;3070;47;44;4
+MI;Michigan;Redfield & Wilton Strategies;5/10/2020;5/14/2020;970;47;39;
+MI;Michigan;Hodas & Associates;5/1/2020;5/5/2020;600;50;42;
+MI;Michigan;Public Policy Polling;4/28/2020;4/29/2020;1270;50;42;
+MI;Michigan;Hodas & Associates;4/9/2020;4/11/2020;600;49;43;
+MI;Michigan;Public Policy Polling;4/20/2020;4/21/2020;1277;51;44;
+MI;Michigan;Ipsos;4/15/2020;4/20/2020;612;46;38;
+MI;Michigan;Fox News/Beacon Research/Shaw & Co. Research;4/18/2020;4/21/2020;801;49;41;3
+MI;Michigan;Garin-Hart-Yang Research Group;4/6/2020;4/8/2020;303;50;41;
+MI;Michigan;Public Policy Polling;3/31/2020;4/1/2020;1019;48;45;
+MI;Michigan;Hodas & Associates;3/12/2020;3/16/2020;600;50;44;
+MI;Michigan;Baldwin Wallace University;3/17/2020;3/25/2020;997;47;42;
+MI;Michigan;Marketing Resource Group (MRG);3/16/2020;3/20/2020;600;44;41;
+MI;Michigan;AtlasIntel;3/7/2020;3/9/2020;1100;44;46;
+MI;Michigan;YouGov;3/6/2020;3/8/2020;566;45;41;
+MI;Michigan;Monmouth University;3/5/2020;3/8/2020;977;48;41;
+MI;Michigan;Optimus;3/5/2020;3/7/2020;550;44;46;
+MI;Michigan;Expedition Strategies;2/6/2020;2/18/2020;500;43;43;
+MI;Michigan;YouGov;2/11/2020;2/20/2020;1249;47;43;
+MI;Michigan;Quinnipiac University;2/12/2020;2/18/2020;845;47;43;
+MN;Minnesota;Data for Progress;10/21/2020;11/1/2020;1259;51;43;6
+MN;Minnesota;Research Co.;10/31/2020;11/1/2020;450;52;43;
+MN;Minnesota;Morning Consult;10/22/2020;10/31/2020;883;52;42;
+MN;Minnesota;Targoz Market Research;10/25/2020;10/30/2020;1138;53;44;
+MN;Minnesota;St. Cloud State University;10/10/2020;10/29/2020;372;54;39;
+MN;Minnesota;Public Policy Polling;10/29/2020;10/30/2020;770;54;43;
+MN;Minnesota;SurveyUSA;10/23/2020;10/27/2020;649;47;42;
+MN;Minnesota;Gravis Marketing;10/24/2020;10/26/2020;657;53;39;
+MN;Minnesota;SurveyUSA;10/16/2020;10/20/2020;625;48;42;
+MN;Minnesota;Morning Consult;10/11/2020;10/20/2020;864;51;42;
+MN;Minnesota;Civiqs;10/17/2020;10/20/2020;840;53;43;
+MN;Minnesota;Change Research;10/12/2020;10/15/2020;1021;49;44;
+MN;Minnesota;David Binder Research;10/10/2020;10/13/2020;220;52;41;
+MN;Minnesota;Morning Consult;10/2/2020;10/11/2020;898;50;44;
+MN;Minnesota;SurveyUSA;10/1/2020;10/6/2020;929;47;40;
+MN;Minnesota;Mason-Dixon Polling & Strategy;9/21/2020;9/23/2020;800;48;42;
+MN;Minnesota;Suffolk University;9/20/2020;9/24/2020;500;47;40;4
+MN;Minnesota;Redfield & Wilton Strategies;9/12/2020;9/17/2020;718;51;42;
+MN;Minnesota;ABC News/Washington Post;9/8/2020;9/13/2020;705;57;41;
+MN;Minnesota;Morning Consult;9/4/2020;9/13/2020;643;48;44;
+MN;Minnesota;YouGov;9/9/2020;9/11/2020;1087;50;41;
+MN;Minnesota;NYT/Siena College;9/8/2020;9/10/2020;814;50;41;3
+MN;Minnesota;SurveyUSA;9/4/2020;9/7/2020;553;49;40;
+MN;Minnesota;Morning Consult;8/29/2020;9/7/2020;649;49;44;
+MN;Minnesota;Public Policy Polling;9/3/2020;9/4/2020;877;52;44;
+MN;Minnesota;Harper Polling;8/30/2020;9/1/2020;501;48;45;
+MN;Minnesota;Morning Consult;8/21/2020;8/30/2020;700;50;43;
+MN;Minnesota;Morning Consult;8/7/2020;8/16/2020;700;50;42;
+MN;Minnesota;David Binder Research;7/30/2020;7/31/2020;200;54;36;
+MN;Minnesota;Public Policy Polling;7/22/2020;7/23/2020;1218;52;42;
+MN;Minnesota;Morning Consult;7/17/2020;7/26/2020;662;47;44;
+MN;Minnesota;Fox News/Beacon Research/Shaw & Co. Research;7/17/2020;7/20/2020;776;51;38;
+MN;Minnesota;Gravis Marketing;6/19/2020;6/19/2020;600;58;42;
+MN;Minnesota;Mason-Dixon Polling & Strategy;5/18/2020;5/20/2020;800;49;44;
+MO;Missouri;Morning Consult;10/22/2020;10/31/2020;1109;43;52;
+MO;Missouri;Remington Research Group;10/28/2020;10/29/2020;1010;45;50;3
+MO;Missouri;Remington Research Group;10/14/2020;10/15/2020;1010;45;51;
+MO;Missouri;YouGov;9/24/2020;10/7/2020;931;43;52;
+MO;Missouri;Garin-Hart-Yang Research Group;9/28/2020;10/2/2020;600;48;50;
+MO;Missouri;Remington Research Group;9/30/2020;10/1/2020;980;46;51;
+MO;Missouri;Remington Research Group;9/16/2020;9/17/2020;1056;45;53;
+MO;Missouri;We Ask America;9/1/2020;9/3/2020;500;44;49;
+MO;Missouri;YouGov;6/23/2020;7/1/2020;900;43;50;4
+MO;Missouri;Garin-Hart-Yang Research Group;6/16/2020;6/22/2020;800;48;46;
+MO;Missouri;Remington Research Group;6/10/2020;6/11/2020;1152;43;51;
+MO;Missouri;We Ask America;5/26/2020;5/27/2020;500;44;48;
+MO;Missouri;Remington Research Group;2/26/2020;2/27/2020;1050;42;52;
+MS;Mississippi;Data for Progress;10/21/2020;11/1/2020;562;41;55;3
+MS;Mississippi;Civiqs;10/23/2020;10/26/2020;507;41;55;
+MS;Mississippi;The Tyson Group;8/28/2020;8/30/2020;600;40;50;
+MS;Mississippi;Garin-Hart-Yang Research Group;7/30/2020;8/9/2020;600;43;53;
+MS;Mississippi;Millsaps College;6/2/2020;6/4/2020;568;41;50;6
+MS;Mississippi;Chism Strategies;4/6/2020;4/9/2020;508;38;49;7
+MS;Mississippi;Mason-Dixon Polling & Research Inc.;2/26/2020;2/28/2020;625;41;56;
+MT;Montana;Change Research;10/29/2020;11/2/2020;920;45;50;2
+MT;Montana;Montana State University Billings;10/19/2020;10/24/2020;546;45;52;1
+MT;Montana;Public Policy Polling;10/26/2020;10/27/2020;886;47;49;
+MT;Montana;RMG Research;10/15/2020;10/18/2020;500;46;50;2
+MT;Montana;NYT/Siena College;10/18/2020;10/20/2020;758;43;49;3
+MT;Montana;Strategies 360;10/15/2020;10/20/2020;500;43;51;
+MT;Montana;Montana State University Bozeman;9/14/2020;10/2/2020;1615;44;51;
+MT;Montana;Public Policy Polling;10/9/2020;10/1/2020;798;48;52;
+MT;Montana;Data for Progress;9/30/2020;10/5/2020;737;43;49;3
+MT;Montana;NYT/Siena College;9/14/2020;9/16/2020;625;42;49;3
+MT;Montana;Fabrizio Ward/Hart Research Associates;8/30/2020;9/5/2020;1637;43;50;
+MT;Montana;Expedition Strategies;8/22/2020;8/27/2020;400;44;48;
+MT;Montana;Public Policy Polling;7/23/2020;7/24/2020;917;45;50;
+MT;Montana;Civiqs;7/11/2020;7/13/2020;873;45;49;5
+MT;Montana;Public Policy Polling;7/9/2020;7/10/2020;1224;42;51;
+MT;Montana;University of Montana;6/17/2020;6/26/2020;517;38;52;
+MT;Montana;Montana State University Bozeman;4/10/2020;4/27/2020;549;40;45;
+MT;Montana;University of Montana;2/12/2020;2/22/2020;498;34;56;
+NC;North Carolina;Change Research;10/29/2020;11/1/2020;473;49;47;
+NC;North Carolina;Redfield & Wilton Strategies;10/26/2020;10/29/2020;1489;49;47;2
+NC;North Carolina;Ipsos;10/27/2020;11/2/2020;707;49;48;3
+NC;North Carolina;Morning Consult;10/22/2020;10/31/2020;1982;49;48;
+NC;North Carolina;AtlasIntel;10/30/2020;10/31/2020;812;48;50;
+NC;North Carolina;Data for Progress;10/27/2020;11/1/2020;908;50;48;2
+NC;North Carolina;CES;9/29/2020;10/27/2020;1627;49;45;
+NC;North Carolina;SSRS;10/23/2020;10/30/2020;901;51;45;3
+NC;North Carolina;East Carolina University;10/27/2020;10/28/2020;1103;50;48;
+NC;North Carolina;Marist College;10/25/2020;10/28/2020;800;52;46;
+NC;North Carolina;Cardinal Point Analysis;10/27/2020;10/28/2020;750;46;48;4
+NC;North Carolina;NYT/Siena College;10/23/2020;10/27/2020;1034;48;45;
+NC;North Carolina;YouGov;10/20/2020;10/26/2020;911;48;48;1
+NC;North Carolina;Harper Polling;10/22/2020;10/25/2020;504;47;46;
+NC;North Carolina;Gravis Marketing;10/26/2020;10/27/2020;614;49;48;
+NC;North Carolina;SurveyUSA;10/23/2020;10/26/2020;627;48;48;
+NC;North Carolina;Ipsos;10/21/2020;10/27/2020;647;49;48;2
+NC;North Carolina;Public Policy Polling;10/26/2020;10/27/2020;937;51;47;
+NC;North Carolina;RMG Research;10/24/2020;10/26/2020;800;48;47;
+NC;North Carolina;YouGov;10/20/2020;10/23/2020;1022;51;47;
+NC;North Carolina;Meredith College;10/16/2020;10/19/2020;732;48;44;2
+NC;North Carolina;Morning Consult;10/11/2020;10/20/2020;1904;50;47;
+NC;North Carolina;Change Research;10/16/2020;10/19/2020;400;50;47;
+NC;North Carolina;Ipsos;10/14/2020;10/20/2020;660;49;46;2
+NC;North Carolina;East Carolina University;10/15/2020;10/18/2020;1155;51;47;
+NC;North Carolina;ABC News/Washington Post;10/12/2020;10/17/2020;646;49;48;1
+NC;North Carolina;Civiqs;10/11/2020;10/14/2020;1211;51;46;
+NC;North Carolina;NYT/Siena College;10/9/2020;10/13/2020;627;46;42;
+NC;North Carolina;RMG Research;10/7/2020;10/11/2020;800;47;45;3
+NC;North Carolina;SurveyUSA;10/8/2020;10/11/2020;669;50;45;
+NC;North Carolina;Ipsos;10/7/2020;10/13/2020;660;48;48;2
+NC;North Carolina;Monmouth University;10/8/2020;10/11/2020;500;50;47;
+NC;North Carolina;Morning Consult;10/2/2020;10/11/2020;1993;50;46;
+NC;North Carolina;Redfield & Wilton Strategies;10/4/2020;10/6/2020;938;49;44;
+NC;North Carolina;Data for Progress;9/30/2020;10/5/2020;1285;51;44;2
+NC;North Carolina;East Carolina University;10/2/2020;10/4/2020;1232;50;47;
+NC;North Carolina;Ipsos;9/29/2020;10/6/2020;601;47;47;
+NC;North Carolina;Change Research;10/2/2020;10/4/2020;586;49;47;
+NC;North Carolina;Public Policy Polling;10/4/2020;10/5/2020;911;50;46;
+NC;North Carolina;Hart Research Associates;9/24/2020;9/27/2020;400;49;47;
+NC;North Carolina;Redfield & Wilton Strategies;9/23/2020;9/25/2020;1097;47;45;2
+NC;North Carolina;ALG Research;9/22/2020;9/28/2020;822;50;47;
+NC;North Carolina;YouGov;9/18/2020;9/25/2020;921;47;47;3
+NC;North Carolina;Meredith College;9/18/2020;9/22/2020;705;46;45;3
+NC;North Carolina;YouGov;9/22/2020;9/25/2020;1213;48;46;
+NC;North Carolina;Harper Polling;9/17/2020;9/20/2020;612;44;45;2
+NC;North Carolina;Change Research;9/18/2020;9/20/2020;579;48;46;
+NC;North Carolina;Ipsos;9/11/2020;9/16/2020;568;47;47;
+NC;North Carolina;Redfield & Wilton Strategies;9/12/2020;9/16/2020;1092;47;45;2
+NC;North Carolina;NYT/Siena College;9/11/2020;9/16/2020;653;45;44;3
+NC;North Carolina;Kaiser Family Foundation;8/29/2020;9/13/2020;1172;45;43;
+NC;North Carolina;Suffolk University;9/11/2020;9/14/2020;500;46;43;5
+NC;North Carolina;SSRS;9/9/2020;9/13/2020;767;49;46;3
+NC;North Carolina;SurveyUSA;9/10/2020;9/13/2020;596;47;47;
+NC;North Carolina;Benenson Strategy Group/GS Strategy Group;8/28/2020;9/8/2020;1600;48;48;
+NC;North Carolina;Morning Consult;8/29/2020;9/7/2020;1592;48;47;
+NC;North Carolina;Change Research;9/4/2020;9/6/2020;442;49;47;
+NC;North Carolina;Redfield & Wilton Strategies;8/21/2020;9/3/2020;951;43;44;2
+NC;North Carolina;Monmouth University;8/29/2020;9/1/2020;401;48;46;
+NC;North Carolina;Fox News/Beacon Research/Shaw & Co. Research;8/29/2020;9/1/2020;722;50;46;1
+NC;North Carolina;East Carolina University;8/29/2020;8/30/2020;1011;47;49;
+NC;North Carolina;Morning Consult;8/21/2020;8/30/2020;700;49;47;
+NC;North Carolina;Morning Consult;8/7/2020;8/16/2020;700;49;46;
+NC;North Carolina;Change Research;8/21/2020;8/23/2020;560;48;47;
+NC;North Carolina;Morning Consult;8/14/2020;8/23/2020;1541;49;46;
+NC;North Carolina;Redfield & Wilton Strategies;8/16/2020;8/17/2020;967;44;46;
+NC;North Carolina;East Carolina University;8/12/2020;8/13/2020;1255;47;47;
+NC;North Carolina;Harper Polling;8/6/2020;8/10/2020;600;45;44;4
+NC;North Carolina;Change Research;8/7/2020;8/9/2020;491;47;48;
+NC;North Carolina;Data for Progress;7/24/2020;8/2/2020;1170;46;44;3
+NC;North Carolina;YouGov;7/28/2020;7/31/2020;1129;48;44;
+NC;North Carolina;Redfield & Wilton Strategies;7/19/2020;7/24/2020;919;43;42;3
+NC;North Carolina;Cardinal Point Analysis;7/22/2020;7/24/2020;735;47;48;1
+NC;North Carolina;Change Research;7/24/2020;7/26/2020;284;49;46;
+NC;North Carolina;Morning Consult;7/17/2020;7/26/2020;1504;47;47;
+NC;North Carolina;Public Policy Polling;7/23/2020;7/24/2020;884;49;46;
+NC;North Carolina;Marist College;7/14/2020;7/22/2020;882;51;44;
+NC;North Carolina;Cardinal Point Analytics;7/13/2020;7/15/2020;547;48;49;1
+NC;North Carolina;Change Research;7/10/2020;7/12/2020;655;47;46;
+NC;North Carolina;GBAO;4/13/2020;4/16/2020;500;48;46;
+NC;North Carolina;Public Policy Polling;7/7/2020;7/8/2020;818;50;46;
+NC;North Carolina;Change Research;6/26/2020;6/28/2020;400;51;44;
+NC;North Carolina;East Carolina University;6/22/2020;6/25/2020;1149;45;44;
+NC;North Carolina;Fox News/Beacon Research/Shaw & Co. Research;6/20/2020;6/23/2020;1012;47;45;
+NC;North Carolina;Redfield & Wilton Strategies;6/14/2020;6/17/2020;812;46;40;
+NC;North Carolina;NYT/Siena College;6/8/2020;6/18/2020;653;49;40;
+NC;North Carolina;Public Policy Polling;6/22/2020;6/23/2020;1157;48;46;
+NC;North Carolina;Change Research;6/12/2020;6/14/2020;400;47;45;
+NC;North Carolina;Public Policy Polling;6/2/2020;6/3/2020;949;49;45;
+NC;North Carolina;Change Research;5/29/2020;5/31/2020;806;46;45;
+NC;North Carolina;Harper Polling;5/26/2020;5/28/2020;500;44;47;
+NC;North Carolina;Meeting Street Insights;5/9/2020;5/13/2020;500;47;47;
+NC;North Carolina;Redfield & Wilton Strategies;5/10/2020;5/14/2020;859;45;43;
+NC;North Carolina;East Carolina University;5/7/2020;5/9/2020;1111;43;46;
+NC;North Carolina;Civiqs;5/2/2020;5/4/2020;1362;49;48;
+NC;North Carolina;Garin-Hart-Yang Research Group;4/13/2020;4/18/2020;800;48;45;
+NC;North Carolina;SurveyUSA;4/23/2020;4/26/2020;580;50;45;
+NC;North Carolina;Public Policy Polling;4/20/2020;4/21/2020;1275;49;46;
+NC;North Carolina;Public Policy Polling;4/14/2020;4/15/2020;1318;48;47;
+NC;North Carolina;Harper Polling;4/5/2020;4/7/2020;500;42;49;
+NC;North Carolina;Climate Nexus;2/15/2020;2/19/2020;675;46;44;
+NC;North Carolina;East Carolina University;2/27/2020;2/28/2020;1288;48;46;
+NC;North Carolina;Marist College;2/23/2020;2/27/2020;2120;49;45;
+NC;North Carolina;SurveyUSA;2/13/2020;2/16/2020;2366;49;45;
+ND;North Dakota;DFM Research;9/12/2020;9/16/2020;500;37;56;
+ND;North Dakota;DFM Research;3/3/2020;3/6/2020;400;38;55;
+NH;New Hampshire;University of New Hampshire;10/24/2020;10/28/2020;864;53;45;1
+NH;New Hampshire;YouGov;10/20/2020;10/26/2020;757;53;43;2
+NH;New Hampshire;Suffolk University;10/8/2020;10/12/2020;500;51;41;2
+NH;New Hampshire;University of New Hampshire;10/9/2020;10/12/2020;699;55;43;
+NH;New Hampshire;Saint Anselm College;10/1/2020;10/4/2020;1147;53;41;
+NH;New Hampshire;University of New Hampshire;9/24/2020;9/26/2020;972;53;44;
+NH;New Hampshire;YouGov;9/18/2020;9/25/2020;657;52;44;3
+NH;New Hampshire;NYT/Siena College;9/8/2020;9/10/2020;445;45;42;4
+NH;New Hampshire;Saint Anselm College;8/15/2020;8/17/2020;1042;51;43;
+NH;New Hampshire;University of New Hampshire;7/16/2020;7/28/2020;1893;53;40;
+NH;New Hampshire;University of New Hampshire;6/18/2020;6/22/2020;936;52;39;
+NH;New Hampshire;University of New Hampshire;5/14/2020;5/18/2020;790;44;46;
+NH;New Hampshire;Saint Anselm College;6/13/2020;6/16/2020;1072;49;42;
+NH;New Hampshire;Saint Anselm College;4/23/2020;4/27/2020;820;50;42;7
+NH;New Hampshire;University of New Hampshire;2/19/2020;2/25/2020;576;44;46;
+NH;New Hampshire;AtlasIntel;2/8/2020;2/10/2020;1100;44;46;
+NJ;New Jersey;Research Co.;10/31/2020;11/1/2020;450;56;38;
+NJ;New Jersey;Rutgers University;10/18/2020;10/24/2020;872;61;37;
+NJ;New Jersey;DKC Analytics;10/5/2020;10/13/2020;500;56;34;
+NJ;New Jersey;Stockton University;10/7/2020;10/13/2020;721;56;36;
+NJ;New Jersey;Fairleigh Dickinson University;9/30/2020;10/5/2020;582;53;38;
+NJ;New Jersey;DKC Analytics;8/5/2020;8/13/2020;500;52;33;
+NJ;New Jersey;DKC Analytics;7/7/2020;7/12/2020;500;51;33;
+NJ;New Jersey;Rutgers University;4/22/2020;5/2/2020;1364;56;33;6
+NJ;New Jersey;Quinnipiac University;4/30/2020;5/4/2020;941;54;35;2
+NJ;New Jersey;Monmouth University;4/16/2020;4/19/2020;635;54;38;2
+NJ;New Jersey;Fairleigh Dickinson University (PublicMind);2/12/2020;2/16/2020;790;52;34;
+NM;New Mexico;Research & Polling Inc.;10/23/2020;10/29/2020;1180;54;42;
+NM;New Mexico;GBAO;10/14/2020;10/17/2020;600;54;41;
+NM;New Mexico;Public Policy Polling;9/30/2020;10/1/2020;887;53;39;
+NM;New Mexico;Research & Polling Inc.;8/26/2020;9/2/2020;1123;54;39;
+NM;New Mexico;Public Policy Polling;6/12/2020;6/13/2020;740;53;39;
+NM;New Mexico;Public Policy Polling;4/20/2020;4/21/2020;1009;52;40;
+NV;Nevada;Data for Progress;10/21/2020;11/1/2020;1442;51;44;3
+NV;Nevada;Gravis Marketing;10/27/2020;10/28/2020;688;50;44;
+NV;Nevada;NYT/Siena College;10/23/2020;10/26/2020;809;49;43;3
+NV;Nevada;University of Nevada, Las Vegas Lee Business School ;10/16/2020;10/23/2020;802;50;41;
+NV;Nevada;Civiqs;10/17/2020;10/20/2020;712;52;43;
+NV;Nevada;WPA Intelligence;10/7/2020;10/11/2020;512;44;42;4
+NV;Nevada;YouGov;10/6/2020;10/9/2020;1036;52;46;
+NV;Nevada;NYT/Siena College;10/2/2020;10/6/2020;660;48;42;3
+NV;Nevada;University of Nevada, Las Vegas Lee Business School ;9/10/2020;9/25/2020;641;46;41;
+NV;Nevada;ALG Research;9/15/2020;9/21/2020;800;47;43;
+NV;Nevada;Fox News/Beacon Research/Shaw & Co. Research;9/20/2020;9/23/2020;810;52;41;
+NV;Nevada;NYT/Siena College;9/8/2020;9/10/2020;462;46;42;3
+NV;Nevada;University of Nevada, Las Vegas Lee Business School ;8/20/2020;8/30/2020;682;44;39;
+NV;Nevada;ALG Research;4/27/2020;4/30/2020;763;49;45;
+NV;Nevada;AtlasIntel;2/19/2020;2/21/2020;1100;44;41;
+NY;New York;Research Co.;10/31/2020;11/1/2020;450;61;33;
+NY;New York;Siena College;9/27/2020;9/29/2020;504;51;29;3
+NY;New York;Public Policy Polling;8/21/2020;8/22/2020;1029;63;32;
+NY;New York;Siena College;6/23/2020;6/25/2020;806;57;32;
+NY;New York;Sinea College;5/17/2020;5/21/2020;796;57;32;
+NY;New York;Quinnipiac University;4/30/2020;5/4/2020;915;55;32;3
+NY;New York;Siena College;4/19/2020;4/23/2020;803;65;29;
+NY;New York;Siena College;3/22/2020;3/26/2020;566;58;33;
+NY;New York;Siena College;2/16/2020;2/20/2020;658;55;36;
+OH;Ohio;Quinnipiac University;10/28/2020;11/1/2020;1440;47;43;
+OH;Ohio;Research Co.;10/31/2020;11/1/2020;450;47;47;
+OH;Ohio;Morning Consult;10/22/2020;10/31/2020;2179;47;49;
+OH;Ohio;Civiqs;10/29/2020;11/1/2020;1136;48;49;
+OH;Ohio;Quinnipiac University;10/23/2020;10/27/2020;1186;48;43;
+OH;Ohio;Gravis Marketing;10/27/2020;10/28/2020;613;47;49;
+OH;Ohio;Morning Consult;10/11/2020;10/20/2020;2271;47;49;
+OH;Ohio;Fox News/Beacon Research/Shaw & Co. Research;10/17/2020;10/20/2020;1018;45;48;
+OH;Ohio;Civiqs;10/8/2020;10/11/2020;586;47;50;
+OH;Ohio;Quinnipiac University;10/8/2020;10/12/2020;1160;48;47;
+OH;Ohio;Morning Consult;10/2/2020;10/11/2020;2283;46;49;
+OH;Ohio;Baldwin Wallace University;9/30/2020;10/8/2020;1009;45;47;1
+OH;Ohio;NYT/Siena College;10/2/2020;10/6/2020;661;45;44;3
+OH;Ohio;YouGov;9/30/2020;10/2/2020;1114;47;47;
+OH;Ohio;Hart Research Associates;9/24/2020;9/27/2020;400;47;49;
+OH;Ohio;ALG Research;8/26/2020;9/1/2020;500;48;46;
+OH;Ohio;Fox News/Beacon Research/Shaw & Co. Research;9/20/2020;9/23/2020;830;50;45;
+OH;Ohio;Quinnipiac University;9/17/2020;9/21/2020;1085;48;47;
+OH;Ohio;Baldwin Wallace University;9/8/2020;9/22/2020;1011;45;44;2
+OH;Ohio;Civiqs;9/11/2020;9/15/2020;556;45;48;
+OH;Ohio;Morning Consult;8/29/2020;9/7/2020;1963;45;50;
+OH;Ohio;Morning Consult;8/21/2020;8/30/2020;700;45;50;
+OH;Ohio;Morning Consult;8/7/2020;8/16/2020;700;45;49;
+OH;Ohio;TargetSmart;7/28/2020;8/3/2020;1249;47;46;
+OH;Ohio;Civiqs;8/13/2020;8/17/2020;631;47;47;4
+OH;Ohio;University of Akron;6/25/2020;7/15/2020;1037;46;42;
+OH;Ohio;Morning Consult;7/17/2020;7/26/2020;1741;45;48;
+OH;Ohio;YouGov;7/21/2020;7/24/2020;1211;45;46;
+OH;Ohio;Quinnipiac University;6/18/2020;6/22/2020;1139;46;45;
+OH;Ohio;Fox News/Beacon Research/Shaw & Co. Research;5/30/2020;6/2/2020;803;45;43;
+OH;Ohio;Baldwin Wallace University;4/20/2020;4/25/2020;797;45;44;
+OH;Ohio;Baldwin Wallace University;3/17/2020;3/25/2020;1025;43;47;
+OH;Ohio;Marist College;3/10/2020;3/13/2020;1710;49;45;
+OK;Oklahoma;SoonerPoll;10/15/2020;10/20/2020;5466;37;59;2
+OK;Oklahoma;SoonerPoll;9/2/2020;9/8/2020;486;35;60;1
+OK;Oklahoma;DFM Research;7/29/2020;7/30/2020;572;36;56;
+OK;Oklahoma;Amber Integrated;6/3/2020;6/4/2020;500;36;55;
+OK;Oklahoma;Amber Integrated;3/5/2020;3/8/2020;500;33;57;
+OK;Oklahoma;Cole Hargrave Snodgrass & Associates;2/10/2020;2/13/2020;500;33;57;
+OR;Oregon;Civiqs;9/26/2020;9/29/2020;944;56;39;
+OR;Oregon;DHM Research;9/3/2020;9/8/2020;502;51;39;
+PA;Pennsylvania;Change Research;10/29/2020;11/1/2020;699;50;46;
+PA;Pennsylvania;Redfield & Wilton Strategies;10/26/2020;10/29/2020;2125;50;45;1
+PA;Pennsylvania;Data for Progress;10/21/2020;11/1/2020;1417;52;45;2
+PA;Pennsylvania;AYTM;10/30/2020;11/1/2020;240;51;49;3
+PA;Pennsylvania;Marist College;10/29/2020;11/1/2020;772;51;46;
+PA;Pennsylvania;Research Co.;10/31/2020;11/1/2020;450;50;44;
+PA;Pennsylvania;Morning Consult;10/22/2020;10/31/2020;2686;52;43;
+PA;Pennsylvania;Monmouth University;10/28/2020;11/1/2020;502;51;45;
+PA;Pennsylvania;Targoz Market Research;10/25/2020;10/30/2020;998;56;42;
+PA;Pennsylvania;CES;9/29/2020;10/27/2020;2703;52;44;
+PA;Pennsylvania;Ipsos;10/27/2020;11/1/2020;673;51;45;2
+PA;Pennsylvania;NYT/Siena College;10/26/2020;10/31/2020;1862;49;43;2
+PA;Pennsylvania;ABC News/Washington Post;10/24/2020;10/29/2020;810;51;44;3
+PA;Pennsylvania;Muhlenberg College;10/23/2020;10/28/2020;419;49;44;
+PA;Pennsylvania;Public Policy Polling;10/28/2020;10/29/2020;1012;52;45;
+PA;Pennsylvania;Quinnipiac University;10/23/2020;10/27/2020;1324;51;44;
+PA;Pennsylvania;Franklin & Marshall College;10/19/2020;10/25/2020;558;50;44;
+PA;Pennsylvania;RMG Research;10/25/2020;10/27/2020;800;51;45;
+PA;Pennsylvania;Latino Decisions;10/17/2020;10/25/2020;723;50;45;
+PA;Pennsylvania;Civiqs;10/23/2020;10/26/2020;1145;52;45;
+PA;Pennsylvania;Ipsos;10/20/2020;10/26/2020;655;51;44;3
+PA;Pennsylvania;YouGov;10/13/2020;10/21/2020;669;52;44;
+PA;Pennsylvania;Gravis Marketing;10/23/2020;10/23/2020;602;51;44;
+PA;Pennsylvania;Muhlenberg College;10/13/2020;10/20/2020;416;51;44;
+PA;Pennsylvania;Public Policy Polling;10/21/2020;10/22/2020;890;51;46;
+PA;Pennsylvania;Civiqs;10/17/2020;10/21/2020;1577;52;46;
+PA;Pennsylvania;Morning Consult;10/11/2020;10/20/2020;2563;52;43;
+PA;Pennsylvania;Fox News/Beacon Research/Shaw & Co. Research;10/17/2020;10/20/2020;1045;50;45;
+PA;Pennsylvania;SSRS;10/15/2020;10/20/2020;843;53;43;2
+PA;Pennsylvania;Quinnipiac University;10/16/2020;10/19/2020;1241;51;43;
+PA;Pennsylvania;Suffolk University;10/15/2020;10/19/2020;500;49;42;1
+PA;Pennsylvania;Change Research;10/16/2020;10/19/2020;400;49;47;
+PA;Pennsylvania;Ipsos;10/13/2020;10/19/2020;643;49;45;
+PA;Pennsylvania;Civiqs;10/8/2020;10/11/2020;600;52;45;
+PA;Pennsylvania;RMG Research;10/7/2020;10/12/2020;800;49;43;1
+PA;Pennsylvania;Morning Consult;10/2/2020;10/11/2020;2610;52;44;
+PA;Pennsylvania;Ipsos;10/6/2020;10/11/2020;622;51;44;
+PA;Pennsylvania;Whitman Insight Strategies;10/5/2020;10/9/2020;517;51;46;
+PA;Pennsylvania;Baldwin Wallace University;9/30/2020;10/8/2020;1140;50;45;1
+PA;Pennsylvania;Redfield & Wilton Strategies;10/4/2020;10/6/2020;927;49;42;
+PA;Pennsylvania;Quinnipiac University;10/1/2020;10/5/2020;1211;54;41;
+PA;Pennsylvania;Ipsos;9/29/2020;10/5/2020;605;50;45;
+PA;Pennsylvania;Change Research;10/2/2020;10/4/2020;586;50;46;
+PA;Pennsylvania;Monmouth University;9/30/2020;10/4/2020;500;54;44;
+PA;Pennsylvania;YouGov;9/30/2020;10/2/2020;1187;51;44;
+PA;Pennsylvania;NYT/Siena College;9/30/2020;10/1/2020;706;49;42;3
+PA;Pennsylvania;Redfield & Wilton Strategies;9/23/2020;9/25/2020;1015;50;44;
+PA;Pennsylvania;ALG Research;8/26/2020;9/1/2020;500;50;44;
+PA;Pennsylvania;ABC News/Washington Post;9/21/2020;9/26/2020;567;54;45;
+PA;Pennsylvania;NYT/Siena College;9/25/2020;9/27/2020;711;49;40;11
+PA;Pennsylvania;Hart Research Associates;9/17/2020;9/19/2020;400;53;42;
+PA;Pennsylvania;Fox News/Beacon Research/Shaw & Co. Research;9/20/2020;9/23/2020;856;51;44;
+PA;Pennsylvania;YouGov;9/10/2020;9/21/2020;642;49;45;
+PA;Pennsylvania;CPEC;9/15/2020;9/17/2020;820;50;45;
+PA;Pennsylvania;Franklin & Marshall College;9/14/2020;9/20/2020;480;48;42;
+PA;Pennsylvania;Baldwin Wallace University;9/8/2020;9/22/2020;1012;47;45;2
+PA;Pennsylvania;Change Research;9/18/2020;9/20/2020;579;49;45;
+PA;Pennsylvania;Ipsos;9/11/2020;9/16/2020;611;49;46;
+PA;Pennsylvania;Climate Nexus;9/8/2020;9/11/2020;659;48;43;
+PA;Pennsylvania;Redfield & Wilton Strategies;9/12/2020;9/16/2020;1036;49;44;2
+PA;Pennsylvania;Civiqs;9/11/2020;9/15/2020;549;52;45;
+PA;Pennsylvania;TargetSmart;9/3/2020;9/6/2020;853;51;44;
+PA;Pennsylvania;Benenson Strategy Group/GS Strategy Group;8/28/2020;9/8/2020;1600;49;46;
+PA;Pennsylvania;Marist College;8/31/2020;9/7/2020;771;53;44;
+PA;Pennsylvania;Morning Consult;8/29/2020;9/7/2020;2277;50;45;
+PA;Pennsylvania;Change Research;9/4/2020;9/6/2020;829;50;46;
+PA;Pennsylvania;Redfield & Wilton Strategies;8/21/2020;9/3/2020;1053;48;43;2
+PA;Pennsylvania;Hodas & Associates;8/26/2020;8/31/2020;600;51;45;
+PA;Pennsylvania;Quinnipiac University;8/28/2020;9/1/2020;1107;52;44;
+PA;Pennsylvania;Monmouth University;8/28/2020;8/31/2020;400;49;46;
+PA;Pennsylvania;Morning Consult;8/21/2020;8/30/2020;700;49;45;
+PA;Pennsylvania;Morning Consult;8/7/2020;8/16/2020;700;50;44;
+PA;Pennsylvania;Global Strategy Group;8/13/2020;8/19/2020;801;50;42;2
+PA;Pennsylvania;GQR Research;8/20/2020;8/24/2020;971;52;43;
+PA;Pennsylvania;Franklin & Marshall College;8/17/2020;8/23/2020;681;49;42;
+PA;Pennsylvania;Change Research;8/21/2020;8/23/2020;984;49;46;
+PA;Pennsylvania;Redfield & Wilton Strategies;8/16/2020;8/17/2020;1006;48;41;
+PA;Pennsylvania;Civiqs;8/13/2020;8/17/2020;617;51;44;3
+PA;Pennsylvania;Muhlenberg College;8/11/2020;8/17/2020;416;49;45;
+PA;Pennsylvania;Change Research;8/7/2020;8/9/2020;456;48;44;
+PA;Pennsylvania;YouGov;7/27/2020;8/6/2020;742;50;41;
+PA;Pennsylvania;YouGov;8/4/2020;8/7/2020;1211;49;43;
+PA;Pennsylvania;Hodas & Associates;7/17/2020;7/22/2020;600;51;45;
+PA;Pennsylvania;Redfield & Wilton Strategies;7/19/2020;7/24/2020;1016;48;41;2
+PA;Pennsylvania;Franklin & Marshall College;7/20/2020;7/26/2020;667;50;41;
+PA;Pennsylvania;Change Research;7/24/2020;7/26/2020;382;48;46;
+PA;Pennsylvania;Morning Consult;7/17/2020;7/26/2020;2092;50;42;
+PA;Pennsylvania;Gravis Marketing;7/22/2020;7/24/2020;1006;48;45;
+PA;Pennsylvania;Fox News/Beacon Research/Shaw & Co. Research;7/17/2020;7/20/2020;793;50;39;
+PA;Pennsylvania;Monmouth University;7/9/2020;7/13/2020;401;52;43;3
+PA;Pennsylvania;Change Research;7/10/2020;7/12/2020;743;50;42;
+PA;Pennsylvania;Change Research;6/26/2020;6/28/2020;400;50;44;
+PA;Pennsylvania;Redfield & Wilton Strategies;6/14/2020;6/16/2020;985;49;39;
+PA;Pennsylvania;Hodas & Associates;6/8/2020;6/11/2020;600;54;42;
+PA;Pennsylvania;NYT/Siena College;6/8/2020;6/16/2020;651;50;40;
+PA;Pennsylvania;Change Research;6/12/2020;6/14/2020;400;49;46;
+PA;Pennsylvania;Change Research;5/29/2020;5/31/2020;579;46;50;
+PA;Pennsylvania;Redfield & Wilton Strategies;5/10/2020;5/14/2020;963;48;39;
+PA;Pennsylvania;Hodas & Associates;5/9/2020;5/13/2020;600;46;50;
+PA;Pennsylvania;Harper Polling;4/21/2020;4/26/2020;644;49;43;
+PA;Pennsylvania;Hodas & Associates;4/16/2020;4/18/2020;600;47;47;
+PA;Pennsylvania;Public Policy Polling;4/20/2020;4/21/2020;1251;51;44;
+PA;Pennsylvania;Ipsos;4/15/2020;4/20/2020;578;46;40;
+PA;Pennsylvania;Fox News/Beacon Research/Shaw & Co. Research;4/18/2020;4/21/2020;803;50;42;2
+PA;Pennsylvania;Hodas & Associates;3/19/2020;3/21/2020;600;45;47;
+PA;Pennsylvania;Baldwin Wallace University;3/17/2020;3/25/2020;973;45;47;
+PA;Pennsylvania;YouGov;3/6/2020;3/8/2020;725;46;40;
+PA;Pennsylvania;Optimus;3/5/2020;3/7/2020;533;44;45;
+PA;Pennsylvania;Expedition Strategies;2/6/2020;2/18/2020;500;47;42;
+PA;Pennsylvania;Muhlenberg College;2/12/2020;2/20/2020;424;47;47;
+PA;Pennsylvania;YouGov;2/11/2020;2/20/2020;1171;46;45;
+PA;Pennsylvania;Quinnipiac University;2/12/2020;2/18/2020;849;50;42;
+SC;South Carolina;Data for Progress;10/21/2020;11/1/2020;880;44;53;2
+SC;South Carolina;Morning Consult;10/22/2020;10/31/2020;904;45;51;
+SC;South Carolina;East Carolina University;10/24/2020;10/25/2020;763;44;52;
+SC;South Carolina;Data for Progress;10/22/2020;10/27/2020;1196;44;50;1
+SC;South Carolina;Morning Consult;10/11/2020;10/20/2020;926;45;51;
+SC;South Carolina;NYT/Siena College;10/9/2020;10/15/2020;605;41;49;3
+SC;South Carolina;Data for Progress;10/8/2020;10/11/2020;801;43;52;
+SC;South Carolina;Morning Consult;10/2/2020;10/11/2020;903;42;54;
+SC;South Carolina;GBAO;9/24/2020;9/28/2020;800;44;49;
+SC;South Carolina;Data for Progress;9/24/2020;9/28/2020;824;43;47;2
+SC;South Carolina;Quinnipiac University;9/23/2020;9/27/2020;1123;47;48;
+SC;South Carolina;YouGov;9/22/2020;9/25/2020;1080;42;52;
+SC;South Carolina;Morning Consult;9/11/2020;9/20/2020;764;44;50;
+SC;South Carolina;Quinnipiac University;9/10/2020;9/14/2020;969;45;51;
+SC;South Carolina;Quinnipiac University;7/30/2020;8/3/2020;914;42;47;
+SC;South Carolina;Morning Consult;7/24/2020;8/2/2020;741;44;49;
+SC;South Carolina;Gravis Marketing;7/17/2020;7/17/2020;604;46;50;
+SC;South Carolina;Civiqs;5/23/2020;5/26/2020;591;42;52;5
+SC;South Carolina;AtlasIntel;2/25/2020;2/28/2020;1100;42;48;
+SD;South Dakota;Mason-Dixon Polling & Strategy;10/19/2020;10/21/2020;625;40;51;
+TN;Tennessee;SSRS;5/2/2020;5/22/2020;1000;42;51;
+TN;Tennessee;East Tennessee State University;4/22/2020;5/1/2020;536;36;53;
+TX;Texas;Morning Consult;10/22/2020;10/31/2020;3267;48;48;
+TX;Texas;Data for Progress;10/27/2020;11/1/2020;926;49;48;2
+TX;Texas;CES;9/29/2020;10/27/2020;2947;47;49;
+TX;Texas;Gravis Marketing;10/27/2020;10/28/2020;600;45;50;
+TX;Texas;Public Policy Polling;10/28/2020;10/29/2020;775;50;48;
+TX;Texas;RMG Research;10/27/2020;10/28/2020;800;46;50;
+TX;Texas;YouGov;10/20/2020;10/26/2020;873;47;48;3
+TX;Texas;Latino Decisions;10/17/2020;10/25/2020;758;46;49;
+TX;Texas;NYT/Siena College;10/20/2020;10/25/2020;802;43;47;
+TX;Texas;Data for Progress;10/22/2020;10/25/2020;1018;49;48;1
+TX;Texas;YouGov;10/13/2020;10/20/2020;1000;45;50;
+TX;Texas;University of Texas at Tyler;10/13/2020;10/20/2020;925;48;45;3
+TX;Texas;Morning Consult;10/11/2020;10/20/2020;3347;48;47;
+TX;Texas;Quinnipiac University;10/16/2020;10/19/2020;1145;47;47;
+TX;Texas;Data for Progress;10/15/2020;10/18/2020;9333;47;46;
+TX;Texas;Morning Consult;10/2/2020;10/11/2020;3455;47;49;
+TX;Texas;YouGov;9/25/2020;10/4/2020;908;45;50;4
+TX;Texas;Public Policy Polling;10/7/2020;10/8/2020;612;50;49;
+TX;Texas;Data for Progress;9/30/2020;10/5/2020;1949;47;45;3
+TX;Texas;Civiqs;10/3/2020;10/6/2020;895;48;48;
+TX;Texas;Hart Research Associates;9/24/2020;9/27/2020;400;47;49;
+TX;Texas;YouGov;9/18/2020;9/25/2020;882;46;49;3
+TX;Texas;Public Policy Polling;9/25/2020;9/26/2020;612;48;48;
+TX;Texas;Data for Progress;9/15/2020;9/22/2020;726;45;46;
+TX;Texas;Quinnipiac University;9/17/2020;9/21/2020;1078;45;50;
+TX;Texas;NYT/Siena College;9/16/2020;9/22/2020;653;43;46;2
+TX;Texas;The Tyson Group;8/20/2020;8/25/2020;906;48;44;
+TX;Texas;YouGov;9/15/2020;9/18/2020;1140;46;48;
+TX;Texas;Morning Consult;8/29/2020;9/7/2020;2829;46;46;
+TX;Texas;Public Policy Polling;8/1/2020;8/2/2020;743;47;48;
+TX;Texas;University of Texas at Tyler;8/28/2020;9/2/2020;901;49;48;2
+TX;Texas;Data for Progress;8/20/2020;8/25/2020;2295;48;45;
+TX;Texas;Morning Consult;8/21/2020;8/30/2020;700;47;48;
+TX;Texas;Morning Consult;8/7/2020;8/16/2020;700;46;47;
+TX;Texas;Public Policy Polling;8/21/2020;8/22/2020;764;48;47;
+TX;Texas;Global Strategy Group;8/11/2020;8/13/2020;700;47;45;
+TX;Texas;YouGov;8/4/2020;8/13/2020;846;41;48;2
+TX;Texas;Morning Consult;7/24/2020;8/2/2020;2576;47;46;
+TX;Texas;Morning Consult;7/17/2020;7/26/2020;2685;47;45;
+TX;Texas;Quinnipiac University;7/16/2020;7/20/2020;880;45;44;
+TX;Texas;YouGov;7/7/2020;7/10/2020;1185;45;46;
+TX;Texas;University of Texas at Tyler;6/29/2020;7/7/2020;1677;48;43;
+TX;Texas;YouGov;6/19/2020;6/29/2020;1200;44;48;
+TX;Texas;Public Policy Polling;6/24/2020;6/25/2020;729;48;46;
+TX;Texas;Fox News/Beacon Research/Shaw & Co. Research;6/20/2020;6/23/2020;1001;45;44;
+TX;Texas;Public Policy Polling;6/18/2020;6/19/2020;907;46;48;
+TX;Texas;Public Policy Polling;6/3/2020;6/4/2020;682;48;48;
+TX;Texas;Quinnipiac University;5/29/2020;6/1/2020;1166;43;44;
+TX;Texas;University of Texas at Tyler;4/18/2020;4/27/2020;1183;43;43;
+TX;Texas;Public Policy Polling;4/27/2020;4/28/2020;1032;47;46;
+TX;Texas;YouGov;4/10/2020;4/19/2020;1200;44;49;7
+TX;Texas;AtlasIntel;2/24/2020;3/2/2020;1100;43;47;
+TX;Texas;Marist College;2/23/2020;2/27/2020;2409;45;49;
+TX;Texas;University of Texas at Tyler;2/17/2020;2/26/2020;1221;44;45;
+TX;Texas;SSRS;2/22/2020;2/26/2020;1003;48;47;
+TX;Texas;North Star Opinion Research;2/21/2020;2/26/2020;1004;43;46;
+UT;Utah;Y2 Analytics B;10/15/2020;10/24/2020;660;44;51;
+UT;Utah;RMG Research;10/12/2020;10/17/2020;1000;38;50;3
+UT;Utah;Y2 Analytics B;9/26/2020;10/4/2020;1215;40;50;
+UT;Utah;RMG Research;9/7/2020;9/12/2020;1000;35;53;5
+UT;Utah;RMS Research;7/27/2020;8/1/2020;1000;31;50;4
+UT;Utah;Y2 Analytics A;5/9/2020;5/15/2020;1078;41;44;8
+UT;Utah;RMG Research;4/15/2020;4/21/2020;964;32;51;
+UT;Utah;Y2 Analytics A;3/21/2020;3/30/2020;1266;41;46;
+UT;Utah;RMG Research;2/24/2020;3/1/2020;1000;33;50;
+VA;Virginia;Data for Progress;10/27/2020;11/1/2020;690;54;43;
+VA;Virginia;Roanoke College;10/23/2020;10/29/2020;802;53;42;2
+VA;Virginia;Virginia Commonwealth University;10/13/2020;10/22/2020;709;51;39;
+VA;Virginia;Christopher Newport University;10/15/2020;10/27/2020;908;53;41;
+VA;Virginia;George Mason University;10/13/2020;10/19/2020;908;52;41;3
+VA;Virginia;Cygnal;10/9/2020;10/11/2020;607;51;42;
+VA;Virginia;Cygnal;9/22/2020;9/25/2020;600;52;41;
+VA;Virginia;Civiqs;10/11/2020;10/14/2020;1231;55;42;
+VA;Virginia;Roanoke College;9/30/2020;10/12/2020;602;53;38;
+VA;Virginia;Christopher Newport University;9/9/2020;9/21/2020;796;48;43;
+VA;Virginia;Virginia Commonwealth University;8/28/2020;9/7/2020;693;53;39;
+VA;Virginia;Roanoke College;8/9/2020;8/22/2020;566;53;39;
+VA;Virginia;Virginia Commonwealth University;7/11/2020;7/18/2020;725;50;39;
+VA;Virginia;Morning Consult;7/17/2020;7/26/2020;1156;52;41;
+VA;Virginia;Roanoke College;5/3/2020;5/16/2020;563;51;39;
+VA;Virginia;Virginia Commonwealth University;3/25/2020;4/8/2020;663;51;41;
+VA;Virginia;Hampton University;2/25/2020;2/28/2020;768;45;38;
+VA;Virginia;Roanoke College;2/9/2020;2/18/2020;520;48;40;
+VT;Vermont;Braun Research;9/3/2020;9/15/2020;586;56;32;
+WA;Washington;Public Policy Polling;10/14/2020;10/15/2020;610;60;37;
+WA;Washington;SurveyUSA;10/8/2020;10/12/2020;591;55;34;
+WA;Washington;Strategies 360;9/8/2020;9/14/2020;501;58;36;
+WA;Washington;SurveyUSA;7/22/2020;7/27/2020;534;62;28;
+WA;Washington;Public Policy Polling;5/19/2020;5/20/2020;1070;59;37;
+WA;Washington;SurveyUSA;5/16/2020;5/19/2020;530;57;31;
+WA;Washington;EMC Research;3/31/2020;4/6/2020;427;52;39;
+WA;Washington;SurveyUSA;3/4/2020;3/6/2020;992;57;34;
+WI;Wisconsin;Change Research;10/29/2020;11/1/2020;553;53;45;
+WI;Wisconsin;Redfield & Wilton Strategies;10/26/2020;10/29/2020;800;53;41;2
+WI;Wisconsin;Research Co.;10/31/2020;11/1/2020;450;50;42;
+WI;Wisconsin;Morning Consult;10/22/2020;10/31/2020;1002;54;41;
+WI;Wisconsin;AtlasIntel;10/30/2020;10/31/2020;781;51;49;
+WI;Wisconsin;Civiqs;10/29/2020;11/1/2020;789;51;47;
+WI;Wisconsin;Ipsos;10/27/2020;11/1/2020;969;53;43;2
+WI;Wisconsin;NYT/Siena College;10/26/2020;10/30/2020;1253;52;41;3
+WI;Wisconsin;SSRS;10/23/2020;10/30/2020;873;52;44;3
+WI;Wisconsin;Marquette University Law School;10/21/2020;10/25/2020;749;48;43;
+WI;Wisconsin;ABC News/Washington Post;10/20/2020;10/25/2020;809;57;40;
+WI;Wisconsin;Ipsos;10/20/2020;10/26/2020;664;53;44;3
+WI;Wisconsin;YouGov;10/13/2020;10/21/2020;647;53;44;
+WI;Wisconsin;Gravis Marketing;10/23/2020;10/23/2020;677;54;43;
+WI;Wisconsin;RMG Research;10/14/2020;10/20/2020;800;50;44;
+WI;Wisconsin;Morning Consult;10/11/2020;10/20/2020;1038;54;42;
+WI;Wisconsin;Fox News/Beacon Research/Shaw & Co. Research;10/17/2020;10/20/2020;1037;49;44;
+WI;Wisconsin;Latino Decisions;10/14/2020;10/19/2020;400;50;45;
+WI;Wisconsin;Change Research;10/16/2020;10/19/2020;400;52;44;
+WI;Wisconsin;Ipsos;10/13/2020;10/19/2020;663;51;43;
+WI;Wisconsin;YouGov;10/13/2020;10/16/2020;1112;51;46;
+WI;Wisconsin;Civiqs;10/8/2020;10/11/2020;560;53;45;
+WI;Wisconsin;David Binder Research;10/10/2020;10/13/2020;220;53;43;
+WI;Wisconsin;Morning Consult;10/2/2020;10/11/2020;1067;51;44;
+WI;Wisconsin;Ipsos;10/6/2020;10/11/2020;577;51;44;
+WI;Wisconsin;NYT/Siena College;10/8/2020;10/11/2020;789;51;41;3
+WI;Wisconsin;Baldwin Wallace University;9/30/2020;10/8/2020;883;49;43;2
+WI;Wisconsin;Redfield & Wilton Strategies;10/4/2020;10/6/2020;688;51;41;
+WI;Wisconsin;Marquette University Law School;9/30/2020;10/4/2020;700;46;41;4
+WI;Wisconsin;Ipsos;9/29/2020;10/5/2020;601;50;44;
+WI;Wisconsin;Change Research;10/2/2020;10/4/2020;586;51;44;
+WI;Wisconsin;Redfield & Wilton Strategies;9/23/2020;9/25/2020;663;48;43;2
+WI;Wisconsin;Marist College;9/20/2020;9/24/2020;727;54;44;
+WI;Wisconsin;Hart Research Associates;9/17/2020;9/19/2020;400;51;44;
+WI;Wisconsin;YouGov;9/10/2020;9/21/2020;664;50;46;
+WI;Wisconsin;Baldwin Wallace University;9/8/2020;9/22/2020;853;50;41;2
+WI;Wisconsin;Change Research;9/18/2020;9/20/2020;571;51;42;
+WI;Wisconsin;Ipsos;9/11/2020;9/16/2020;609;48;43;
+WI;Wisconsin;Redfield & Wilton Strategies;9/12/2020;9/16/2020;638;47;41;2
+WI;Wisconsin;Civiqs;9/11/2020;9/15/2020;704;51;44;
+WI;Wisconsin;ABC News/Washington Post;9/8/2020;9/13/2020;615;52;46;
+WI;Wisconsin;SSRS;9/9/2020;9/13/2020;816;52;42;3
+WI;Wisconsin;Morning Consult;9/3/2020;9/12/2020;769;50;43;
+WI;Wisconsin;NYT/Siena College;9/8/2020;9/10/2020;760;48;43;2
+WI;Wisconsin;Benenson Strategy Group/GS Strategy Group;8/28/2020;9/8/2020;1200;50;45;
+WI;Wisconsin;Marquette University Law School;8/30/2020;9/3/2020;688;47;43;4
+WI;Wisconsin;Change Research;9/4/2020;9/6/2020;501;50;44;
+WI;Wisconsin;Redfield & Wilton Strategies;8/21/2020;9/3/2020;670;50;41;2
+WI;Wisconsin;Morning Consult;8/28/2020;9/6/2020;770;51;43;
+WI;Wisconsin;YouGov;9/2/2020;9/4/2020;978;50;44;
+WI;Wisconsin;Hodas & Associates;8/11/2020;8/17/2020;600;52;44;
+WI;Wisconsin;Fox News/Beacon Research/Shaw & Co. Research;8/29/2020;9/1/2020;801;50;42;2
+WI;Wisconsin;Opinium;8/21/2020;8/28/2020;700;53;40;
+WI;Wisconsin;Morning Consult;8/21/2020;8/30/2020;700;52;43;
+WI;Wisconsin;Change Research;8/21/2020;8/23/2020;925;49;44;
+WI;Wisconsin;Redfield & Wilton Strategies;8/16/2020;8/19/2020;672;49;39;
+WI;Wisconsin;Civiqs;8/13/2020;8/17/2020;754;51;45;2
+WI;Wisconsin;Morning Consult;8/7/2020;8/16/2020;788;49;43;
+WI;Wisconsin;Change Research;8/7/2020;8/9/2020;384;47;43;
+WI;Wisconsin;Marquette University Law School;8/4/2020;8/9/2020;694;49;44;
+WI;Wisconsin;YouGov;7/27/2020;8/6/2020;734;49;43;
+WI;Wisconsin;YouGov;8/4/2020;8/7/2020;994;48;42;
+WI;Wisconsin;David Binder Research;7/30/2020;7/31/2020;200;53;42;
+WI;Wisconsin;Hodas & Associates;7/22/2020;7/27/2020;600;52;38;
+WI;Wisconsin;Global Strategy Group;7/11/2020;7/17/2020;600;51;42;
+WI;Wisconsin;Redfield & Wilton Strategies;7/19/2020;7/24/2020;742;45;35;4
+WI;Wisconsin;Change Research;7/24/2020;7/26/2020;392;48;43;
+WI;Wisconsin;Morning Consult;7/17/2020;7/26/2020;809;50;43;
+WI;Wisconsin;Gravis Marketing;7/22/2020;7/22/2020;796;50;42;
+WI;Wisconsin;Change Research;7/10/2020;7/12/2020;601;48;42;
+WI;Wisconsin;Change Research;6/26/2020;6/28/2020;400;51;43;
+WI;Wisconsin;Redfield & Wilton Strategies;6/14/2020;6/19/2020;724;45;36;
+WI;Wisconsin;Hodas & Associates;6/12/2020;6/16/2020;600;55;39;
+WI;Wisconsin;NYT/Siena College;6/8/2020;6/15/2020;655;49;38;
+WI;Wisconsin;Marquette University Law School;6/14/2020;6/18/2020;688;50;44;3
+WI;Wisconsin;Change Research;6/12/2020;6/14/2020;400;48;44;
+WI;Wisconsin;Fox News/Beacon Research/Shaw & Co. Research;5/30/2020;6/2/2020;801;49;40;
+WI;Wisconsin;Change Research;5/29/2020;5/31/2020;328;45;45;
+WI;Wisconsin;Redfield & Wilton Strategies;5/10/2020;5/14/2020;875;48;38;
+WI;Wisconsin;Hodas & Associates;5/6/2020;5/8/2020;600;51;42;
+WI;Wisconsin;Marquette University Law School;5/3/2020;5/7/2020;650;49;45;4
+WI;Wisconsin;Hodas & Associates;4/13/2020;4/15/2020;600;50;45;
+WI;Wisconsin;Public Policy Polling;4/20/2020;4/21/2020;1415;50;45;
+WI;Wisconsin;Ipsos;4/15/2020;4/20/2020;645;43;40;
+WI;Wisconsin;Garin-Hart-Yang Research Group;4/6/2020;4/8/2020;301;48;47;
+WI;Wisconsin;Marquette University Law School;3/24/2020;3/29/2020;813;48;45;
+WI;Wisconsin;Hodas & Associates;3/17/2020;3/19/2020;600;45;49;
+WI;Wisconsin;Baldwin Wallace University;3/17/2020;3/25/2020;822;45;45;
+WI;Wisconsin;Public Policy Polling;3/10/2020;3/11/2020;1727;48;45;
+WI;Wisconsin;YouGov;3/6/2020;3/8/2020;459;44;42;
+WI;Wisconsin;Optimus;3/5/2020;3/7/2020;502;43;45;
+WI;Wisconsin;Expedition Strategies;2/6/2020;2/18/2020;500;42;44;
+WI;Wisconsin;Marquette University Law School;2/19/2020;2/23/2020;1000;46;46;
+WI;Wisconsin;YouGov;2/11/2020;2/20/2020;936;45;43;
+WI;Wisconsin;Quinnipiac University;2/12/2020;2/18/2020;823;42;49;
+WV;West Virginia;Triton Poling & Research;10/19/2020;10/20/2020;544;38;58;
+WV;West Virginia;Research America Inc.;10/1/2020;10/6/2020;450;39;53;5
+WV;West Virginia;Triton Poling & Research;9/29/2020;9/30/2020;525;38;56;
+WV;Wyoming;University of Wyoming;10/8/2020;10/28/2020;614;31;59;
+AK;Alaska;Election 2020-1;11/3/2020;11/3/2020;;43;54;
+AZ;Arizona;Election 2020-1;11/3/2020;11/3/2020;;50;49;
+AZ;Arizona;PPP;1/2/2020;1/4/2021;;46;46;
+AR;Arkansas;Election 2020-1;11/3/2020;11/3/2020;;35;63;
+AR;Arkansas;Hendrix Coll.-3;10/11/2020;10/13/2020;;34;58;
+AR;Arkansas;Hendrix Coll.-2;6/9/2020;6/10/2020;;45;47;
+CA;California;Election 2020-1;11/3/2020;11/3/2020;;64;34;
+CA;California;YouGov;2/1/2020;2/15/2020;;60;30;
+CO;Colorado;Election 2020-1;11/3/2020;11/3/2020;;52;40;
+CT;Connecticut;Election 2020-1;11/3/2020;11/3/2020;;59;39;
+DC;D.C.;Election 2020-1;11/3/2020;11.03.2020;;92;5;
+FL;Florida;Florida Atlantic University;1/9/2020;1/12/2020;;51;49;
+FL;Florida;Election 2020-1;11/3/2020;11/3/2020;;48;51;
+GA;Georgia;Election 2020-1;11/3/2020;11.03.2020;;50;49;
+HI;Hawaii;Election 2020-1;11/3/2020;11/3/2020;;65;34;
+IL;Illinois;Victory Research;9/23/2020;9/26/2020;;53;40;
+IL;Illinois;Election 2020-1;11/3/2020;11/3/2020;;57;41;
+IN;Indiana;Victoria Research;5/21/2020;5/23/2020;;39;49;
+IN;Indiana;Election 2020-1;11/3/2020;11/3/2020;;41;57;
+IA;Iowa;Siena College;1/20/2020;1/23/2020;;44;46;
+IA;Iowa;Election 2020-1;11/3/2020;11/3/2020;;45;53;
+KS;Kansas;DFM Research;1/30/2020;2/6/2020;;43;51;
+KS;Kansas;Election 2020-1;11/3/2020;11/3/2020;;41;57;
+KY;Kentucky;Election 2020-1;11/3/2020;11/3/2020;;36;62;
+LA;Louisiana;Election 2020-1;11/3/2020;11/3/2020;;40;59;
+ME;Maine;Election 2020-1;11/3/2020;11/3/2020;;55;44;
+MD;Maryland;Election 2020-1;11/3/2020;11/3/2020;;65;33;
+MA;Massachusetts;YouGov;10/14/2020;10/21/2020;;64;29;
+MA;Massachusetts;Emerson College;8/25/2020;8/27/2020;;69;31;
+MA;Massachusetts;Emerson College;5/5/2020;5/6/2020;;67;33;
+MA;Massachusetts;Emerson College;4/4/2020;4/07/2020;;69;31;
+MA;Massachusetts;Election 2020-1;11/3/2020;11/3/2020;;65;33;
+MI;Michigan;EPIC-MRA;1/9/2020;1/12/2020;;50;44;
+MI;Michigan;Glengariff Group;1/3/2020;1/7/2020;;50;43;
+MI;Michigan;Election 2020-1;11/3/2020;11/3/2020;;51;48;
+MN;Minnesota;Election 2020-1;11/3/2020;11/3/2020;;53;45;
+MS;Mississippi;Election 2020-1;11/3/2020;11/3/2020;;40;59;
+MO;Missouri;Election 2020-1;11/3/2020;11/3/2020;;41;57;
+MT;Montana;Emerson College;7/31/2020;8/2/2020;;42;53;
+MT;Montana;Election 2020-1;11/3/2020;11/3/2020;;40;57;
+NV;Nevada;Emerson College;10/29/2020;10/31/2020;;49;47;
+NV;Nevada;Fox News/Beacon Research/Shaw & Co. Research;1/5/2020;1/8/2020;;47;39;
+NV;Nevada;Election 2020-1;11/3/2020;11/3/2020;;50;48;
+NH;New Hampshire;Marist College;1/20/2020;1/23/2020;;51;43;
+NH;New Hampshire;Election 2020-1;11/3/2020;11/3/2020;;53;46;
+NJ;New Jersey;Emerson College;9/4/2020;9/7/2020;;58;40;
+NJ;New Jersey;Election 2020-1;11/3/2020;11/3/2020;;57;41;
+NM;New Mexico;Emerson College;1/3/2020;1/6/2020;;54;46;
+NM;New Mexico;Election 2020-1;11/3/2020;11/3/2020;;54;44;
+NY;New York;Election 2020-1;11/3/2020;11/3/2020;;56;43;
+NC;North Carolina;Election 2020-1;11/3/2020;11/3/2020;;49;50;
+ND;North Dakota;DFM Research;1/28/2020;2/1/2020;;38;57;
+ND;North Dakota;Election 2020-1;11/3/2020;11/3/2020;;32;65;
+OH;Ohio;Emerson College;5/8/2020;5/10/2020;;49;51;
+OH;Ohio;Election 2020-1;11/3/2020;11/3/2020;;45;53;
+OK;Oklahoma;SoonerPoll;8/13/2020;8/31/2020;;35;60;
+OK;Oklahoma;Election 2020-1;11/3/2020;11/3/2020;;32;65;
+OR;Oregon;Election 2020-1;11/3/2020;11/3/2020;;57;40;
+PA;Pennsylvania;Civiqs;2/27/2020;3/3/2020;;46;48;
+PA;Pennsylvania;Election 2020-1;11/3/2020;11/3/2020;;50;49;
+SC;South Carolina;East Carolina University;1/31/2020;2/2/2020;;40;52;
+SC;South Carolina;Election 2020-1;11/3/2020;11/3/2020;;43;55;
+SD;South Dakota;Election 2020-1;11/3/2020;11/3/2020;;36;62;
+TN;Tennessee;Mason-Dixon Polling & Strategy;1/28/2020;1/30/2020;;39;55;
+TN;Tennessee;Election 2020-1;11/3/2020;11/3/2020;;37;61;
+TX;Texas;Emerson College;5/8/2020;5/10/2020;;48;52;
+TX;Texas;YouGov;1/31/2020;2/9/2020;;43;47;
+TX;Texas;University of Texas at Tyler;1/21/2020;1/30/2020;;44;46;
+TX;Texas;Data for Progress;1/16/2020;1/21/2020;;40;54;
+TX;Texas;Texas Lyceum;1/10/2020;1/19/2020;;46;51;
+TX;Texas;Election 2020-1;11/3/2020;11/3/2020;;46;52;
+UT;Utah;RMG Research;1/15/2020;1/22/2020;;31;49;
+UT;Utah;Election 2020-1;11/3/2020;11/3/2020;;38;58;
+VT;Vermont;Election 2020-1;11/3/2020;11/3/2020;;66;31;
+VA;Virginia;Election 2020-1;11/3/2020;11/3/2020;;54;44;
+WA;Washington;Election 2020-1;11/3/2020;11/3/2020;;58;39;
+WV;West Virginia;Election 2020-1;11/3/2020;11/3/2020;;30;69;
+WI;Wisconsin;Marquette University Law School;1/8/2020;1/12/2020;;49;45;
+WI;Wisconsin;Fox News/Beacon Research/Shaw & Co. Research;1/5/2020;1/8/2020;;46;41;
+WI;Wisconsin;Election 2020-1;11/3/2020;11/3/2020;;50;49;
+WV;Wyoming;Election 2020-1;11/3/2020;11.03.2020;;27;70;
+DE;Delaware;University of Delaware;9/21/2020;9/27/2020;847;54;33;
+DE;Delaware;Public Policy Polling;8/21/2020;8/22/2020;710;58;37;
+DE;Delaware;Gonzales Research;1/16/2020;1/19/2020;;56;40;
+DE;Delaware;Election 2020-1;11/3/2020;11/3/2020;;59;40;
+ID;Idaho;Election 2020-1;11/3/2020;11/3/2020;;33;64;
+NE;Nebraska;Election 2020-1;11/3/2020;11/3/2020;;39;59;
+RI;Rhode Island;Election 2020-1;11/3/2020;11/3/2020;;60;39;

@@ -1,0 +1,56 @@
+body {
+    background-color: $color-background-grey;
+    display: flex;
+
+    .left-container {
+        display: flex;
+        flex-direction: column;
+        width: 20%;
+        margin-right: 15%;
+        height: 95vh;
+
+        .left-top-container {
+            height: 35%;
+            border: 2px solid grey;
+            margin-bottom: 10%;
+        }
+
+        .left-bottom-container {
+            height: 60%;
+        }
+    }
+
+    .right-container {
+        width: 60%;
+
+
+        .right-top-container {}
+
+        .right-bottom-container {}
+    }
+}
+
+.heatmap-wrapper {
+    display: flex;
+    align-items: flex-end;
+
+    #heatmap-container {
+        width: 90%;
+        //margin-right: 0;;
+    }
+
+    #heatmap-legend {
+        width: 5%;
+    }
+}
+
+#time-slider-container {
+    display: flex;
+    align-items: center;
+
+    svg {
+        width: 90%
+    }
+
+    #play-button {}
+}

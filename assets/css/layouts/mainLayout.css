@@ -1,0 +1,21 @@
+body {
+  display: flex; }
+  body .left-container {
+    width: 20%;
+    margin-right: 10%; }
+  body .right-container {
+    width: 60%; }
+
+.heatmap-wrapper {
+  display: flex;
+  align-items: flex-end; }
+  .heatmap-wrapper #heatmap-container {
+    width: 90%; }
+  .heatmap-wrapper #heatmap-legend {
+    width: 5%; }
+
+#time-slider-container {
+  display: flex;
+  align-items: center; }
+  #time-slider-container svg {
+    width: 90%; }

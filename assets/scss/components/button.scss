@@ -1,0 +1,19 @@
+.primary-button {
+    @include default-text-white;
+    border: none;
+    background-color: map-get($main-colors, primary);
+    //padding: 8px 24px 8px 24px;
+    padding: $smallest-spacing $default-spacing $smallest-spacing $default-spacing;
+
+    &:hover {
+        background-color: color-variation(primary, light);
+    }
+
+    &:active {
+        background-color: color-variation(primary, dark);
+    }
+
+    &:disabled {
+        background-color: $color-default-grey;
+    }
+}

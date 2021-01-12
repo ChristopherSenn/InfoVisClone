@@ -1,0 +1,84 @@
+// Variables
+
+
+// Colors
+$color-black: #333333;
+$color-white: #FFFFFF;
+$color-background-grey: #F5F5F5;
+$color-default-grey: #CCCCCC;
+
+$main-colors: (
+    primary: #0f7014,
+    secondary: #9791b4
+);
+
+// Define Variations for the Main Colors
+$variations: (
+  light: (
+    function: lighten,
+    parameters: 10%
+  ),
+  dark: (
+    function: darken,
+    parameters: 10%
+  ),
+  fade: (
+    function: rgba,
+    parameters: .7
+  ),
+  gray: (
+    function: grayscale
+  ),
+  shade: (
+    function: mix,
+    parameters: white 80%
+  )
+);
+
+// Calculate the Variations for the Main Colors
+@function color-variation($color, $variation: false) {
+
+    @if map-has-key($main-colors, $color) {
+      $color: map-get($main-colors, $color);
+    } @else {
+      @if type-of($color) != color {
+        @error "Invalid color name: `#{$color}`.";
+      }
+    }
+  
+    @if $variation {
+      @if not map-has-key($variations, $variation) {
+        @error "Invalid $variation: `#{$variation}`.";
+      } @else {
+        $this-variation: map-get($variations, $variation);
+        $args: join(map-get($this-variation, function), $color);
+        @if map-get($this-variation, parameters) {
+          $args: join($args, map-get($this-variation, parameters));
+        }
+        @return call($args...);
+      }
+    }
+    @return $color;
+  }
+
+  // Font Sizes
+  $default-headline-font-size: 36px;
+  $input-headline-font-size: 14px;
+  $small-headline-font-size: 16px;
+
+  $default-text-font-size: 14px;
+  $small-text-font-size: 12px;
+
+  $icon-font-size: 17px;
+
+  // Breakpoints
+$smallBreakpoint : 600px;
+$largeBreakpoint : 1080px;
+
+// Spacing:
+$smallest-spacing: 8px;
+$small-spacing: $smallest-spacing * 2;
+
+$default-spacing: $smallest-spacing * 3;
+
+
