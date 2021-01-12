@@ -1,6 +1,6 @@
 "use strict";
 
-const DATA_DIR = "http://127.0.0.1:8080//assets/data/"
+const DATA_DIR = "https://christophersenn.github.io/InfoVisClone/assets/data/"
 
 //Width and height of map
 const HeatmapWidth = 960;
